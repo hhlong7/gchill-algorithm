@@ -60,3 +60,15 @@ gem5 builds and runs only on Linux, so it runs in the official gem5 build image 
    prints `gem5 version 25.1.0.1` (gem5 has no `--version` flag)
 
 The default ARM build uses Ruby with the CHI protocol; SE-mode runs can still use the classic caches.
+
+
+## Chameleon 1.4.0 on StarPU 1.4.3 (Docker image gchill-chameleon)
+- StarPU comes from Ubuntu 24.04's packages, which are built with FxT tracing; Chameleon is built from
+  source (`docker/chameleon/Dockerfile`, about 4 min): `docker build -t gchill-chameleon docker/chameleon`
+- trace one factorization: `docker/chameleon/trace.sh potrf 4096 512 data/chameleon/cholesky_8x512.rec`
+  (STARPU_FXT_TRACE=1 turns tracing on in StarPU 1.4; starpu_fxt_tool turns the trace into tasks.rec)
+- traces are the same on every run: the dependencies come from submission order, not from timing
+- the partial-pivot LU (`sgetrf`) aborts in Chameleon 1.4: use `getrf_nopiv`
+- QR (`geqrf`) is not in the suite: its tile kernels (geqrt, tsqrt, tsmqrt, ttqrt, ttmqrt) are Chameleon's
+  own, not OpenBLAS calls
+- the volume is not used for output (tasks.rec comes out on stdout), so no root-owned files
