@@ -1,0 +1,1626 @@
+{
+ "name": "cholesky_8x512",
+ "source": "chameleon",
+ "dtype_bytes": 4,
+ "kernels": [
+  {
+   "id": 0,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 1,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 2,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 3,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 4,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 5,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 6,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 7,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    0
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 8,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 9,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    2
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 10,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    3
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 11,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    4
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 12,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    5
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 13,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 14,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    1,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 15,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 16,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2,
+    3
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 17,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2,
+    4
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 18,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2,
+    5
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 19,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2,
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 20,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    2,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 21,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    3
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 22,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    3,
+    4
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 23,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    3,
+    5
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 24,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    3,
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 25,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    3,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 26,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    4
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 27,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    4,
+    5
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 28,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    4,
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 29,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    4,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 30,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    5
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 31,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    5,
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 32,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    5,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 33,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    6
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 34,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    6,
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 35,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    7
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 36,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    8
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 37,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    9,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 38,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    10,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 39,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    11,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 40,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    12,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 41,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    13,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 42,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    14,
+    36
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 43,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    15,
+    37
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 44,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    37,
+    38
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 45,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    37,
+    39
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 46,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    37,
+    40
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 47,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    37,
+    41
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 48,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    37,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 49,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    21,
+    38
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 50,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    38,
+    39
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 51,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    38,
+    40
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 52,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    38,
+    41
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 53,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    38,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 54,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    26,
+    39
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 55,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    39,
+    40
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 56,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    39,
+    41
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 57,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    39,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 58,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    30,
+    40
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 59,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    40,
+    41
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 60,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    40,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 61,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    33,
+    41
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 62,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    41,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 63,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    35,
+    42
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 64,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    43
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 65,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    16,
+    44,
+    64
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 66,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    17,
+    45,
+    64
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 67,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    18,
+    46,
+    64
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 68,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    19,
+    47,
+    64
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 69,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    20,
+    48,
+    64
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 70,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    49,
+    65
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 71,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    65,
+    66
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 72,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    65,
+    67
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 73,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    65,
+    68
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 74,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    65,
+    69
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 75,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    54,
+    66
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 76,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    66,
+    67
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 77,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    66,
+    68
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 78,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    66,
+    69
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 79,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    58,
+    67
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 80,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    67,
+    68
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 81,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    67,
+    69
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 82,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    61,
+    68
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 83,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    68,
+    69
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 84,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    63,
+    69
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 85,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    70
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 86,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    22,
+    50,
+    71,
+    85
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 87,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    23,
+    51,
+    72,
+    85
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 88,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    24,
+    52,
+    73,
+    85
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 89,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    25,
+    53,
+    74,
+    85
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 90,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    75,
+    86
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 91,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    86,
+    87
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 92,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    86,
+    88
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 93,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    86,
+    89
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 94,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    79,
+    87
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 95,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    87,
+    88
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 96,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    87,
+    89
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 97,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    82,
+    88
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 98,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    88,
+    89
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 99,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    84,
+    89
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 100,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    90
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 101,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    27,
+    55,
+    76,
+    91,
+    100
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 102,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    28,
+    56,
+    77,
+    92,
+    100
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 103,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    29,
+    57,
+    78,
+    93,
+    100
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 104,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    94,
+    101
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 105,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    101,
+    102
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 106,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    101,
+    103
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 107,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    97,
+    102
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 108,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    102,
+    103
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 109,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    99,
+    103
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 110,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    104
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 111,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    31,
+    59,
+    80,
+    95,
+    105,
+    110
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 112,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    32,
+    60,
+    81,
+    96,
+    106,
+    110
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 113,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    107,
+    111
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 114,
+   "type": "gemm",
+   "shape": {
+    "m": 512,
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    111,
+    112
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 115,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    109,
+    112
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 116,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    113
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 117,
+   "type": "trsm",
+   "shape": {
+    "m": 512,
+    "n": 512
+   },
+   "deps": [
+    34,
+    62,
+    83,
+    98,
+    108,
+    114,
+    116
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 118,
+   "type": "syrk",
+   "shape": {
+    "n": 512,
+    "k": 512
+   },
+   "deps": [
+    115,
+    117
+   ],
+   "arrival_ns": 0.0
+  },
+  {
+   "id": 119,
+   "type": "potrf",
+   "shape": {
+    "b": 512
+   },
+   "deps": [
+    118
+   ],
+   "arrival_ns": 0.0
+  }
+ ]
+}

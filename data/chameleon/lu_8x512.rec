@@ -1,0 +1,10236 @@
+Control: WontUse
+JobId: 290
+SubmitOrder: 17
+SubmitTime: 62.440061
+Handles: aae704c869b0
+MPIRank: -1
+
+Control: WontUse
+JobId: 303
+SubmitOrder: 26
+SubmitTime: 62.459352
+Handles: aae704c88a80
+MPIRank: -1
+
+Control: WontUse
+JobId: 317
+SubmitOrder: 35
+SubmitTime: 62.478310
+Handles: aae704c8ab50
+MPIRank: -1
+
+Control: WontUse
+JobId: 332
+SubmitOrder: 44
+SubmitTime: 62.498392
+Handles: aae704c8cc20
+MPIRank: -1
+
+Control: WontUse
+JobId: 348
+SubmitOrder: 53
+SubmitTime: 62.521184
+Handles: aae704c8ecf0
+MPIRank: -1
+
+Control: WontUse
+JobId: 365
+SubmitOrder: 62
+SubmitTime: 62.544475
+Handles: aae704c90dc0
+MPIRank: -1
+
+Control: WontUse
+JobId: 383
+SubmitOrder: 71
+SubmitTime: 62.569224
+Handles: aae704c92e90
+MPIRank: -1
+
+Control: WontUse
+JobId: 386
+SubmitOrder: 72
+SubmitTime: 62.570516
+Handles: aae704c84860
+MPIRank: -1
+
+Control: WontUse
+JobId: 389
+SubmitOrder: 73
+SubmitTime: 62.578932
+Handles: aae704cd3200
+MPIRank: -1
+
+Control: WontUse
+JobId: 392
+SubmitOrder: 74
+SubmitTime: 62.580307
+Handles: aae704cd9350
+MPIRank: -1
+
+Control: WontUse
+JobId: 395
+SubmitOrder: 75
+SubmitTime: 62.582724
+Handles: aae704ce9370
+MPIRank: -1
+
+Control: WontUse
+JobId: 398
+SubmitOrder: 76
+SubmitTime: 62.588807
+Handles: aae704cea970
+MPIRank: -1
+
+Control: WontUse
+JobId: 401
+SubmitOrder: 77
+SubmitTime: 62.594098
+Handles: aae704cebf70
+MPIRank: -1
+
+Control: WontUse
+JobId: 404
+SubmitOrder: 78
+SubmitTime: 62.600348
+Handles: aae704ced570
+MPIRank: -1
+
+Control: WontUse
+JobId: 407
+SubmitOrder: 79
+SubmitTime: 62.601723
+Handles: aae704ceeb70
+MPIRank: -1
+
+Control: WontUse
+JobId: 424
+SubmitOrder: 94
+SubmitTime: 62.652888
+Handles: aae704c97030
+MPIRank: -1
+
+Control: WontUse
+JobId: 434
+SubmitOrder: 102
+SubmitTime: 62.677554
+Handles: aae704c99100
+MPIRank: -1
+
+Control: WontUse
+JobId: 444
+SubmitOrder: 110
+SubmitTime: 62.714970
+Handles: aae704c9b1d0
+MPIRank: -1
+
+Control: WontUse
+JobId: 454
+SubmitOrder: 118
+SubmitTime: 62.741178
+Handles: aae704c9d2a0
+MPIRank: -1
+
+Control: WontUse
+JobId: 464
+SubmitOrder: 126
+SubmitTime: 62.767219
+Handles: aae704c9f370
+MPIRank: -1
+
+Control: WontUse
+JobId: 474
+SubmitOrder: 134
+SubmitTime: 62.788551
+Handles: aae704ca1440
+MPIRank: -1
+
+Control: WontUse
+JobId: 477
+SubmitOrder: 135
+SubmitTime: 62.791176
+Handles: aae704c94f60
+MPIRank: -1
+
+Control: WontUse
+JobId: 480
+SubmitOrder: 136
+SubmitTime: 62.792968
+Handles: aae704cf0170
+MPIRank: -1
+
+Control: WontUse
+JobId: 483
+SubmitOrder: 137
+SubmitTime: 62.794093
+Handles: aae704cf1770
+MPIRank: -1
+
+Control: WontUse
+JobId: 486
+SubmitOrder: 138
+SubmitTime: 62.799759
+Handles: aae704cf2d70
+MPIRank: -1
+
+Control: WontUse
+JobId: 489
+SubmitOrder: 139
+SubmitTime: 62.805176
+Handles: aae704cf4370
+MPIRank: -1
+
+Control: WontUse
+JobId: 492
+SubmitOrder: 140
+SubmitTime: 62.810467
+Handles: aae704cf5970
+MPIRank: -1
+
+Control: WontUse
+JobId: 495
+SubmitOrder: 141
+SubmitTime: 62.816342
+Handles: aae704cf6f70
+MPIRank: -1
+
+Control: WontUse
+JobId: 517
+SubmitOrder: 154
+SubmitTime: 62.879757
+Handles: aae704ca55e0
+MPIRank: -1
+
+Control: WontUse
+JobId: 527
+SubmitOrder: 161
+SubmitTime: 62.907298
+Handles: aae704ca76b0
+MPIRank: -1
+
+Control: WontUse
+JobId: 537
+SubmitOrder: 168
+SubmitTime: 62.943755
+Handles: aae704ca9780
+MPIRank: -1
+
+Control: WontUse
+JobId: 547
+SubmitOrder: 175
+SubmitTime: 62.970796
+Handles: aae704cab850
+MPIRank: -1
+
+Control: WontUse
+JobId: 557
+SubmitOrder: 182
+SubmitTime: 63.001379
+Handles: aae704cad920
+MPIRank: -1
+
+Control: WontUse
+JobId: 560
+SubmitOrder: 183
+SubmitTime: 63.007004
+Handles: aae704ca3510
+MPIRank: -1
+
+Control: WontUse
+JobId: 563
+SubmitOrder: 184
+SubmitTime: 63.009129
+Handles: aae704cf8570
+MPIRank: -1
+
+Control: WontUse
+JobId: 566
+SubmitOrder: 185
+SubmitTime: 63.010337
+Handles: aae704cf9b70
+MPIRank: -1
+
+Control: WontUse
+JobId: 569
+SubmitOrder: 186
+SubmitTime: 63.015337
+Handles: aae704cfb170
+MPIRank: -1
+
+Control: WontUse
+JobId: 572
+SubmitOrder: 187
+SubmitTime: 63.021003
+Handles: aae704cfc770
+MPIRank: -1
+
+Control: WontUse
+JobId: 575
+SubmitOrder: 188
+SubmitTime: 63.028545
+Handles: aae704cfdd70
+MPIRank: -1
+
+Control: WontUse
+JobId: 594
+SubmitOrder: 199
+SubmitTime: 63.088210
+Handles: aae704cb1a80
+MPIRank: -1
+
+Control: WontUse
+JobId: 603
+SubmitOrder: 205
+SubmitTime: 63.119376
+Handles: aae704cb3b10
+MPIRank: -1
+
+Control: WontUse
+JobId: 612
+SubmitOrder: 211
+SubmitTime: 63.137709
+Handles: aae704cb5ba0
+MPIRank: -1
+
+Control: WontUse
+JobId: 621
+SubmitOrder: 217
+SubmitTime: 63.163791
+Handles: aae704cb7c30
+MPIRank: -1
+
+Control: WontUse
+JobId: 624
+SubmitOrder: 218
+SubmitTime: 63.165458
+Handles: aae704caf9f0
+MPIRank: -1
+
+Control: WontUse
+JobId: 627
+SubmitOrder: 219
+SubmitTime: 63.171999
+Handles: aae704cff370
+MPIRank: -1
+
+Control: WontUse
+JobId: 630
+SubmitOrder: 220
+SubmitTime: 63.177749
+Handles: aae704d00970
+MPIRank: -1
+
+Control: WontUse
+JobId: 633
+SubmitOrder: 221
+SubmitTime: 63.179874
+Handles: aae704d01f70
+MPIRank: -1
+
+Control: WontUse
+JobId: 636
+SubmitOrder: 222
+SubmitTime: 63.185624
+Handles: aae704d03570
+MPIRank: -1
+
+Control: WontUse
+JobId: 652
+SubmitOrder: 231
+SubmitTime: 63.228456
+Handles: aae704cbbd90
+MPIRank: -1
+
+Control: WontUse
+JobId: 660
+SubmitOrder: 236
+SubmitTime: 63.252247
+Handles: aae704cbde60
+MPIRank: -1
+
+Control: WontUse
+JobId: 668
+SubmitOrder: 241
+SubmitTime: 63.272747
+Handles: aae704cbff30
+MPIRank: -1
+
+Control: WontUse
+JobId: 671
+SubmitOrder: 242
+SubmitTime: 63.277330
+Handles: aae704cb9d00
+MPIRank: -1
+
+Control: WontUse
+JobId: 674
+SubmitOrder: 243
+SubmitTime: 63.282830
+Handles: aae704d04b70
+MPIRank: -1
+
+Control: WontUse
+JobId: 677
+SubmitOrder: 244
+SubmitTime: 63.284830
+Handles: aae704d06170
+MPIRank: -1
+
+Control: WontUse
+JobId: 680
+SubmitOrder: 245
+SubmitTime: 63.285955
+Handles: aae704d07770
+MPIRank: -1
+
+Control: WontUse
+JobId: 693
+SubmitOrder: 252
+SubmitTime: 63.307996
+Handles: aae704cc40d0
+MPIRank: -1
+
+Control: WontUse
+JobId: 700
+SubmitOrder: 256
+SubmitTime: 63.320412
+Handles: aae704cc61a0
+MPIRank: -1
+
+Control: WontUse
+JobId: 703
+SubmitOrder: 257
+SubmitTime: 63.322579
+Handles: aae704cc2000
+MPIRank: -1
+
+Control: WontUse
+JobId: 706
+SubmitOrder: 258
+SubmitTime: 63.324245
+Handles: aae704d08d70
+MPIRank: -1
+
+Control: WontUse
+JobId: 709
+SubmitOrder: 259
+SubmitTime: 63.325995
+Handles: aae704d0a370
+MPIRank: -1
+
+Control: WontUse
+JobId: 719
+SubmitOrder: 264
+SubmitTime: 63.342411
+Handles: aae704cca340
+MPIRank: -1
+
+Control: WontUse
+JobId: 722
+SubmitOrder: 265
+SubmitTime: 63.344120
+Handles: aae704cc8270
+MPIRank: -1
+
+Control: WontUse
+JobId: 725
+SubmitOrder: 266
+SubmitTime: 63.349786
+Handles: aae704d0b970
+MPIRank: -1
+
+Control: WontUse
+JobId: 730
+SubmitOrder: 268
+SubmitTime: 63.357911
+Handles: aae704ccc410
+MPIRank: -1
+
+Control: WontUse
+JobId: 733
+SubmitOrder: 269
+SubmitTime: 63.360078
+Handles: aae704c84860
+MPIRank: -1
+
+Control: WontUse
+JobId: 736
+SubmitOrder: 270
+SubmitTime: 63.362036
+Handles: aae704cd3200
+MPIRank: -1
+
+Control: WontUse
+JobId: 739
+SubmitOrder: 271
+SubmitTime: 63.363952
+Handles: aae704cd9350
+MPIRank: -1
+
+Control: WontUse
+JobId: 742
+SubmitOrder: 272
+SubmitTime: 63.365244
+Handles: aae704ce9370
+MPIRank: -1
+
+Control: WontUse
+JobId: 745
+SubmitOrder: 273
+SubmitTime: 63.370911
+Handles: aae704cea970
+MPIRank: -1
+
+Control: WontUse
+JobId: 748
+SubmitOrder: 274
+SubmitTime: 63.377702
+Handles: aae704cebf70
+MPIRank: -1
+
+Control: WontUse
+JobId: 751
+SubmitOrder: 275
+SubmitTime: 63.380077
+Handles: aae704ced570
+MPIRank: -1
+
+Control: WontUse
+JobId: 754
+SubmitOrder: 276
+SubmitTime: 63.385327
+Handles: aae704ceeb70
+MPIRank: -1
+
+Control: WontUse
+JobId: 757
+SubmitOrder: 277
+SubmitTime: 63.391868
+Handles: aae704c869b0
+MPIRank: -1
+
+Control: WontUse
+JobId: 760
+SubmitOrder: 278
+SubmitTime: 63.401076
+Handles: aae704c94f60
+MPIRank: -1
+
+Control: WontUse
+JobId: 763
+SubmitOrder: 279
+SubmitTime: 63.408493
+Handles: aae704cf0170
+MPIRank: -1
+
+Control: WontUse
+JobId: 766
+SubmitOrder: 280
+SubmitTime: 63.410451
+Handles: aae704cf1770
+MPIRank: -1
+
+Control: WontUse
+JobId: 769
+SubmitOrder: 281
+SubmitTime: 63.417284
+Handles: aae704cf2d70
+MPIRank: -1
+
+Control: WontUse
+JobId: 772
+SubmitOrder: 282
+SubmitTime: 63.419743
+Handles: aae704cf4370
+MPIRank: -1
+
+Control: WontUse
+JobId: 775
+SubmitOrder: 283
+SubmitTime: 63.421826
+Handles: aae704cf5970
+MPIRank: -1
+
+Control: WontUse
+JobId: 778
+SubmitOrder: 284
+SubmitTime: 63.423784
+Handles: aae704cf6f70
+MPIRank: -1
+
+Control: WontUse
+JobId: 781
+SubmitOrder: 285
+SubmitTime: 63.425576
+Handles: aae704c88a80
+MPIRank: -1
+
+Control: WontUse
+JobId: 784
+SubmitOrder: 286
+SubmitTime: 63.426909
+Handles: aae704c97030
+MPIRank: -1
+
+Control: WontUse
+JobId: 787
+SubmitOrder: 287
+SubmitTime: 63.430284
+Handles: aae704ca3510
+MPIRank: -1
+
+Control: WontUse
+JobId: 790
+SubmitOrder: 288
+SubmitTime: 63.436159
+Handles: aae704cf8570
+MPIRank: -1
+
+Control: WontUse
+JobId: 793
+SubmitOrder: 289
+SubmitTime: 63.438034
+Handles: aae704cf9b70
+MPIRank: -1
+
+Control: WontUse
+JobId: 796
+SubmitOrder: 290
+SubmitTime: 63.443242
+Handles: aae704cfb170
+MPIRank: -1
+
+Control: WontUse
+JobId: 799
+SubmitOrder: 291
+SubmitTime: 63.449200
+Handles: aae704cfc770
+MPIRank: -1
+
+Control: WontUse
+JobId: 802
+SubmitOrder: 292
+SubmitTime: 63.450450
+Handles: aae704cfdd70
+MPIRank: -1
+
+Control: WontUse
+JobId: 805
+SubmitOrder: 293
+SubmitTime: 63.455700
+Handles: aae704c8ab50
+MPIRank: -1
+
+Control: WontUse
+JobId: 808
+SubmitOrder: 294
+SubmitTime: 63.461241
+Handles: aae704c99100
+MPIRank: -1
+
+Control: WontUse
+JobId: 811
+SubmitOrder: 295
+SubmitTime: 63.467283
+Handles: aae704ca55e0
+MPIRank: -1
+
+Control: WontUse
+JobId: 814
+SubmitOrder: 296
+SubmitTime: 63.473408
+Handles: aae704caf9f0
+MPIRank: -1
+
+Control: WontUse
+JobId: 817
+SubmitOrder: 297
+SubmitTime: 63.479449
+Handles: aae704cff370
+MPIRank: -1
+
+Control: WontUse
+JobId: 820
+SubmitOrder: 298
+SubmitTime: 63.485241
+Handles: aae704d00970
+MPIRank: -1
+
+Control: WontUse
+JobId: 823
+SubmitOrder: 299
+SubmitTime: 63.487116
+Handles: aae704d01f70
+MPIRank: -1
+
+Control: WontUse
+JobId: 826
+SubmitOrder: 300
+SubmitTime: 63.492782
+Handles: aae704d03570
+MPIRank: -1
+
+Control: WontUse
+JobId: 829
+SubmitOrder: 301
+SubmitTime: 63.498699
+Handles: aae704c8cc20
+MPIRank: -1
+
+Control: WontUse
+JobId: 832
+SubmitOrder: 302
+SubmitTime: 63.500740
+Handles: aae704c9b1d0
+MPIRank: -1
+
+Control: WontUse
+JobId: 835
+SubmitOrder: 303
+SubmitTime: 63.502449
+Handles: aae704ca76b0
+MPIRank: -1
+
+Control: WontUse
+JobId: 838
+SubmitOrder: 304
+SubmitTime: 63.504199
+Handles: aae704cb1a80
+MPIRank: -1
+
+Control: WontUse
+JobId: 841
+SubmitOrder: 305
+SubmitTime: 63.505865
+Handles: aae704cb9d00
+MPIRank: -1
+
+Control: WontUse
+JobId: 844
+SubmitOrder: 306
+SubmitTime: 63.507074
+Handles: aae704d04b70
+MPIRank: -1
+
+Control: WontUse
+JobId: 847
+SubmitOrder: 307
+SubmitTime: 63.508740
+Handles: aae704d06170
+MPIRank: -1
+
+Control: WontUse
+JobId: 850
+SubmitOrder: 308
+SubmitTime: 63.510615
+Handles: aae704d07770
+MPIRank: -1
+
+Control: WontUse
+JobId: 853
+SubmitOrder: 309
+SubmitTime: 63.512782
+Handles: aae704c8ecf0
+MPIRank: -1
+
+Control: WontUse
+JobId: 856
+SubmitOrder: 310
+SubmitTime: 63.514407
+Handles: aae704c9d2a0
+MPIRank: -1
+
+Control: WontUse
+JobId: 859
+SubmitOrder: 311
+SubmitTime: 63.516323
+Handles: aae704ca9780
+MPIRank: -1
+
+Control: WontUse
+JobId: 862
+SubmitOrder: 312
+SubmitTime: 63.517573
+Handles: aae704cb3b10
+MPIRank: -1
+
+Control: WontUse
+JobId: 865
+SubmitOrder: 313
+SubmitTime: 63.519282
+Handles: aae704cbbd90
+MPIRank: -1
+
+Control: WontUse
+JobId: 868
+SubmitOrder: 314
+SubmitTime: 63.520990
+Handles: aae704cc2000
+MPIRank: -1
+
+Control: WontUse
+JobId: 871
+SubmitOrder: 315
+SubmitTime: 63.522781
+Handles: aae704d08d70
+MPIRank: -1
+
+Control: WontUse
+JobId: 874
+SubmitOrder: 316
+SubmitTime: 63.524656
+Handles: aae704d0a370
+MPIRank: -1
+
+Control: WontUse
+JobId: 877
+SubmitOrder: 317
+SubmitTime: 63.530740
+Handles: aae704c90dc0
+MPIRank: -1
+
+Control: WontUse
+JobId: 880
+SubmitOrder: 318
+SubmitTime: 63.532823
+Handles: aae704c9f370
+MPIRank: -1
+
+Control: WontUse
+JobId: 883
+SubmitOrder: 319
+SubmitTime: 63.534031
+Handles: aae704cab850
+MPIRank: -1
+
+Control: WontUse
+JobId: 886
+SubmitOrder: 320
+SubmitTime: 63.535823
+Handles: aae704cb5ba0
+MPIRank: -1
+
+Control: WontUse
+JobId: 889
+SubmitOrder: 321
+SubmitTime: 63.537531
+Handles: aae704cbde60
+MPIRank: -1
+
+Control: WontUse
+JobId: 892
+SubmitOrder: 322
+SubmitTime: 63.543323
+Handles: aae704cc40d0
+MPIRank: -1
+
+Control: WontUse
+JobId: 895
+SubmitOrder: 323
+SubmitTime: 63.545531
+Handles: aae704cc8270
+MPIRank: -1
+
+Control: WontUse
+JobId: 898
+SubmitOrder: 324
+SubmitTime: 63.547156
+Handles: aae704d0b970
+MPIRank: -1
+
+Control: WontUse
+JobId: 901
+SubmitOrder: 325
+SubmitTime: 63.548364
+Handles: aae704c92e90
+MPIRank: -1
+
+Control: WontUse
+JobId: 904
+SubmitOrder: 326
+SubmitTime: 63.550989
+Handles: aae704ca1440
+MPIRank: -1
+
+Control: WontUse
+JobId: 907
+SubmitOrder: 327
+SubmitTime: 63.553197
+Handles: aae704cad920
+MPIRank: -1
+
+Control: WontUse
+JobId: 910
+SubmitOrder: 328
+SubmitTime: 63.554864
+Handles: aae704cb7c30
+MPIRank: -1
+
+Control: WontUse
+JobId: 913
+SubmitOrder: 329
+SubmitTime: 63.556447
+Handles: aae704cbff30
+MPIRank: -1
+
+Control: WontUse
+JobId: 916
+SubmitOrder: 330
+SubmitTime: 63.558239
+Handles: aae704cc61a0
+MPIRank: -1
+
+Control: WontUse
+JobId: 919
+SubmitOrder: 331
+SubmitTime: 63.560114
+Handles: aae704cca340
+MPIRank: -1
+
+Control: WontUse
+JobId: 922
+SubmitOrder: 332
+SubmitTime: 63.561322
+Handles: aae704ccc410
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 273
+SubmitOrder: 1
+Priority: 16
+DependsOn: 146
+DepLabels: ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.374563
+StartTime: 62.397020
+EndTime: 444.543272
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 0
+Parameters: M512x512x6
+Handles: aae704c84860
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+JobId: 146
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 274
+SubmitOrder: 2
+Priority: 15
+DependsOn: 273 148
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.391812
+StartTime: 444.575230
+EndTime: 449.576845
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704cd3200
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 148
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 275
+SubmitOrder: 3
+Priority: 14
+DependsOn: 273 150
+DepLabels: task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.398437
+StartTime: 444.574772
+EndTime: 451.010264
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704cd9350
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 150
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 276
+SubmitOrder: 4
+Priority: 13
+DependsOn: 273 152
+DepLabels: task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.400478
+StartTime: 444.579396
+EndTime: 449.153731
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704ce9370
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 152
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 277
+SubmitOrder: 5
+Priority: 12
+DependsOn: 273 154
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.402062
+StartTime: 469.564304
+EndTime: 471.067931
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704cea970
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 154
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 278
+SubmitOrder: 6
+Priority: 11
+DependsOn: 273 156
+DepLabels: task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.405728
+StartTime: 489.239814
+EndTime: 504.586650
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704cebf70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 156
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 279
+SubmitOrder: 7
+Priority: 10
+DependsOn: 273 158
+DepLabels: task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.407145
+StartTime: 522.839656
+EndTime: 528.551044
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704ced570
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 158
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 280
+SubmitOrder: 8
+Priority: 9
+DependsOn: 273 160
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.408437
+StartTime: 567.893397
+EndTime: 569.427022
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704ceeb70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+JobId: 160
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 281
+SubmitOrder: 9
+Priority: 15
+DependsOn: 273 282 2
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.410228
+StartTime: 444.655603
+EndTime: 451.015472
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c869b0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 282
+Priority: 15
+DependsOn: 162 40
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.411895
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 162
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 40
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 2
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 283
+SubmitOrder: 10
+Priority: 14
+DependsOn: 281 164 274
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.427061
+StartTime: 451.063013
+EndTime: 457.274262
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c869b0 aae704c94f60
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 164
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 284
+SubmitOrder: 11
+Priority: 13
+DependsOn: 281 275 166
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.429686
+StartTime: 454.637333
+EndTime: 455.554641
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c869b0 aae704cf0170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 166
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 285
+SubmitOrder: 12
+Priority: 12
+DependsOn: 281 276 168
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.431478
+StartTime: 455.585766
+EndTime: 468.666287
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c869b0 aae704cf1770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 168
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 286
+SubmitOrder: 13
+Priority: 11
+DependsOn: 281 277 170
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.433061
+StartTime: 471.091138
+EndTime: 479.839318
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c869b0 aae704cf2d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 170
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 287
+SubmitOrder: 14
+Priority: 10
+DependsOn: 281 278 172
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.434853
+StartTime: 504.619399
+EndTime: 505.771618
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c869b0 aae704cf4370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 172
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 288
+SubmitOrder: 15
+Priority: 9
+DependsOn: 281 279 174
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.436644
+StartTime: 528.617000
+EndTime: 535.660060
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c869b0 aae704cf5970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 174
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 289
+SubmitOrder: 16
+Priority: 8
+DependsOn: 281 280 176
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.438269
+StartTime: 569.453521
+EndTime: 573.088173
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c869b0 aae704cf6f70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 176
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 292
+Priority: 0
+DependsOn: 291
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.038972
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 291
+Priority: 0
+DependsOn: 281
+DepLabels: task
+Tag: 0
+SubmitTime: 62.441311
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 293
+SubmitOrder: 18
+Priority: 14
+DependsOn: 273 294 3
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.442686
+StartTime: 449.178272
+EndTime: 451.015347
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c88a80
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 294
+Priority: 14
+DependsOn: 178 44
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.444227
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 178
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 44
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 3
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 295
+SubmitOrder: 19
+Priority: 13
+DependsOn: 293 296 10 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.446727
+StartTime: 451.062930
+EndTime: 461.781098
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c88a80 aae704c97030
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 296
+Priority: 13
+DependsOn: 180 46
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.448102
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 180
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 46
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 10
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 297
+SubmitOrder: 20
+Priority: 12
+DependsOn: 293 182 275
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.450269
+StartTime: 452.922379
+EndTime: 453.764981
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c88a80 aae704ca3510
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 182
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 298
+SubmitOrder: 21
+Priority: 11
+DependsOn: 293 276 184
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.451810
+StartTime: 453.770356
+EndTime: 454.632041
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c88a80 aae704cf8570
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 184
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 299
+SubmitOrder: 22
+Priority: 10
+DependsOn: 293 277 186
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.453519
+StartTime: 479.862276
+EndTime: 488.326047
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c88a80 aae704cf9b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 186
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 300
+SubmitOrder: 23
+Priority: 9
+DependsOn: 293 278 188
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.454935
+StartTime: 505.779284
+EndTime: 516.775987
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c88a80 aae704cfb170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 188
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 301
+SubmitOrder: 24
+Priority: 8
+DependsOn: 293 279 190
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.456810
+StartTime: 535.666518
+EndTime: 536.588993
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c88a80 aae704cfc770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 190
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 302
+SubmitOrder: 25
+Priority: 7
+DependsOn: 293 280 192
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.458269
+StartTime: 569.475854
+EndTime: 574.139937
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c88a80 aae704cfdd70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 192
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 305
+Priority: 0
+DependsOn: 304
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.037555
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 304
+Priority: 0
+DependsOn: 293
+DepLabels: task
+Tag: 0
+SubmitTime: 62.460185
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 306
+SubmitOrder: 27
+Priority: 13
+DependsOn: 273 307 4
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.461518
+StartTime: 449.620343
+EndTime: 450.994431
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c8ab50
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 307
+Priority: 13
+DependsOn: 194 50
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.462602
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 194
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 50
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 4
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 308
+SubmitOrder: 28
+Priority: 12
+DependsOn: 306 309 11 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.464852
+StartTime: 451.014556
+EndTime: 452.044528
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c8ab50 aae704c99100
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 309
+Priority: 12
+DependsOn: 196 52
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.466060
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 196
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 52
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 11
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 310
+SubmitOrder: 29
+Priority: 11
+DependsOn: 306 311 17 275
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.468143
+StartTime: 451.033847
+EndTime: 452.915879
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c8ab50 aae704ca55e0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 311
+Priority: 11
+DependsOn: 198 54
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.469393
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 198
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 54
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 17
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 312
+SubmitOrder: 30
+Priority: 10
+DependsOn: 306 200 276
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.471685
+StartTime: 452.050694
+EndTime: 463.479261
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c8ab50 aae704caf9f0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 200
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 313
+SubmitOrder: 31
+Priority: 9
+DependsOn: 306 277 202
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.472935
+StartTime: 488.341964
+EndTime: 504.786061
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c8ab50 aae704cff370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 202
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 314
+SubmitOrder: 32
+Priority: 8
+DependsOn: 306 278 204
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.474185
+StartTime: 516.809069
+EndTime: 522.828282
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c8ab50 aae704d00970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 204
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 315
+SubmitOrder: 33
+Priority: 7
+DependsOn: 306 279 206
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.475726
+StartTime: 536.594285
+EndTime: 544.623193
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c8ab50 aae704d01f70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 206
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 316
+SubmitOrder: 34
+Priority: 6
+DependsOn: 306 280 208
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.477268
+StartTime: 571.278597
+EndTime: 578.412029
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c8ab50 aae704d03570
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 208
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 319
+Priority: 0
+DependsOn: 318
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.003931
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 318
+Priority: 0
+DependsOn: 306
+DepLabels: task
+Tag: 0
+SubmitTime: 62.479018
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 320
+SubmitOrder: 36
+Priority: 12
+DependsOn: 273 321 5
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.480060
+StartTime: 461.791640
+EndTime: 463.467053
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c8cc20
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 321
+Priority: 12
+DependsOn: 210 58
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.480935
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 210
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 58
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 5
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 322
+SubmitOrder: 37
+Priority: 11
+DependsOn: 320 323 12 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.482935
+StartTime: 463.497260
+EndTime: 469.555263
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c8cc20 aae704c9b1d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 323
+Priority: 11
+DependsOn: 212 60
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.483810
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 212
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 60
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 12
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 324
+SubmitOrder: 38
+Priority: 10
+DependsOn: 320 325 18 275
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.485893
+StartTime: 463.507135
+EndTime: 471.076347
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c8cc20 aae704ca76b0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 325
+Priority: 10
+DependsOn: 214 62
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.486809
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 214
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 62
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 18
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 326
+SubmitOrder: 39
+Priority: 9
+DependsOn: 320 327 23 276
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.489101
+StartTime: 468.691036
+EndTime: 477.843039
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c8cc20 aae704cb1a80
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 327
+Priority: 9
+DependsOn: 216 64
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.490434
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 216
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 64
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 23
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 328
+SubmitOrder: 40
+Priority: 8
+DependsOn: 320 218 277
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.492393
+StartTime: 504.805269
+EndTime: 511.157389
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c8cc20 aae704cb9d00
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 218
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 329
+SubmitOrder: 41
+Priority: 7
+DependsOn: 320 278 220
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.493893
+StartTime: 517.751044
+EndTime: 518.666769
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c8cc20 aae704d04b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 220
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 330
+SubmitOrder: 42
+Priority: 6
+DependsOn: 320 279 222
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.495559
+StartTime: 544.630776
+EndTime: 551.219223
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c8cc20 aae704d06170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 222
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 331
+SubmitOrder: 43
+Priority: 5
+DependsOn: 320 280 224
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.497059
+StartTime: 573.106506
+EndTime: 579.289964
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c8cc20 aae704d07770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 224
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 334
+Priority: 0
+DependsOn: 333
+DepLabels: ghost
+Tag: 0
+SubmitTime: 463.479511
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 333
+Priority: 0
+DependsOn: 320
+DepLabels: task
+Tag: 0
+SubmitTime: 62.499059
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 335
+SubmitOrder: 45
+Priority: 11
+DependsOn: 273 336 6
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.500434
+StartTime: 471.085888
+EndTime: 474.915952
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c8ecf0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 336
+Priority: 11
+DependsOn: 226 68
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.501434
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 226
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 68
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 6
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 337
+SubmitOrder: 46
+Priority: 10
+DependsOn: 335 338 13 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.503267
+StartTime: 474.976950
+EndTime: 481.823973
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c8ecf0 aae704c9d2a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 338
+Priority: 10
+DependsOn: 228 70
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.504184
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 228
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 70
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 13
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 339
+SubmitOrder: 47
+Priority: 9
+DependsOn: 335 340 19 275
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.506809
+StartTime: 477.868830
+EndTime: 486.658384
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c8ecf0 aae704ca9780
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 340
+Priority: 9
+DependsOn: 230 72
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.507726
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 230
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 72
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 19
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 341
+SubmitOrder: 48
+Priority: 8
+DependsOn: 335 342 24 276
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.509851
+StartTime: 481.833348
+EndTime: 489.230856
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c8ecf0 aae704cb3b10
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 342
+Priority: 8
+DependsOn: 232 74
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.510809
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 232
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 74
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 24
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 343
+SubmitOrder: 49
+Priority: 7
+DependsOn: 335 344 28 277
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.513184
+StartTime: 486.678384
+EndTime: 496.217792
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c8ecf0 aae704cbbd90
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 344
+Priority: 7
+DependsOn: 234 76
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.514142
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 234
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 76
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 28
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 345
+SubmitOrder: 50
+Priority: 6
+DependsOn: 335 236 278
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.516225
+StartTime: 518.680227
+EndTime: 533.644531
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c8ecf0 aae704cc2000
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 236
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 346
+SubmitOrder: 51
+Priority: 5
+DependsOn: 335 279 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.518100
+StartTime: 551.227097
+EndTime: 559.774241
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c8ecf0 aae704d08d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 238
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 347
+SubmitOrder: 52
+Priority: 4
+DependsOn: 335 280 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.520059
+StartTime: 574.165477
+EndTime: 580.304353
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c8ecf0 aae704d0a370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 240
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 350
+Priority: 0
+DependsOn: 349
+DepLabels: ghost
+Tag: 0
+SubmitTime: 474.954200
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 349
+Priority: 0
+DependsOn: 335
+DepLabels: task
+Tag: 0
+SubmitTime: 62.521934
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 351
+SubmitOrder: 54
+Priority: 10
+DependsOn: 273 352 7
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.523100
+StartTime: 496.231334
+EndTime: 504.731937
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c90dc0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 352
+Priority: 10
+DependsOn: 242 80
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.524225
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 242
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 80
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 7
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 353
+SubmitOrder: 55
+Priority: 9
+DependsOn: 351 354 14 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.526183
+StartTime: 504.749437
+EndTime: 510.263413
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c90dc0 aae704c9f370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 354
+Priority: 9
+DependsOn: 244 82
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.527308
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 244
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 82
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 14
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 355
+SubmitOrder: 56
+Priority: 8
+DependsOn: 351 356 20 275
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.529392
+StartTime: 510.271704
+EndTime: 512.957298
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c90dc0 aae704cab850
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 356
+Priority: 8
+DependsOn: 246 84
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.530392
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 246
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 84
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 20
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 357
+SubmitOrder: 57
+Priority: 7
+DependsOn: 351 358 25 276
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.532350
+StartTime: 511.164680
+EndTime: 512.085030
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c90dc0 aae704cb5ba0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 358
+Priority: 7
+DependsOn: 248 86
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.533350
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 248
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 86
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 25
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 359
+SubmitOrder: 58
+Priority: 6
+DependsOn: 351 360 29 277
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.535433
+StartTime: 512.092613
+EndTime: 517.734419
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c90dc0 aae704cbde60
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 360
+Priority: 6
+DependsOn: 250 88
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.536558
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 250
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 88
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 29
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 361
+SubmitOrder: 59
+Priority: 5
+DependsOn: 351 362 32 278
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.538683
+StartTime: 512.964007
+EndTime: 528.546335
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c90dc0 aae704cc40d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 362
+Priority: 5
+DependsOn: 252 90
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.539766
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 252
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 90
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 32
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 363
+SubmitOrder: 60
+Priority: 4
+DependsOn: 351 254 279
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.542016
+StartTime: 559.782241
+EndTime: 569.449313
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c90dc0 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 254
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 364
+SubmitOrder: 61
+Priority: 3
+DependsOn: 351 280 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.543766
+StartTime: 578.423987
+EndTime: 599.963030
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c90dc0 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 256
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 367
+Priority: 0
+DependsOn: 366
+DepLabels: ghost
+Tag: 0
+SubmitTime: 504.741229
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 366
+Priority: 0
+DependsOn: 351
+DepLabels: task
+Tag: 0
+SubmitTime: 62.545350
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 368
+SubmitOrder: 63
+Priority: 9
+DependsOn: 273 369 8
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.546600
+StartTime: 528.556960
+EndTime: 533.642239
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 0
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c84860 aae704c92e90
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 369
+Priority: 9
+DependsOn: 258 94
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.547558
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 258
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 94
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 8
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 370
+SubmitOrder: 64
+Priority: 8
+DependsOn: 368 371 15 274
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.549599
+StartTime: 533.652781
+EndTime: 543.642719
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd3200 aae704c92e90 aae704ca1440
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 371
+Priority: 8
+DependsOn: 260 96
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.550516
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 260
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 96
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 15
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 372
+SubmitOrder: 65
+Priority: 7
+DependsOn: 368 373 21 275
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.552724
+StartTime: 533.671280
+EndTime: 538.738393
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cd9350 aae704c92e90 aae704cad920
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 373
+Priority: 7
+DependsOn: 262 98
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.553474
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 262
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 98
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 21
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 374
+SubmitOrder: 66
+Priority: 6
+DependsOn: 368 375 26 276
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.555474
+StartTime: 538.745976
+EndTime: 563.994586
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ce9370 aae704c92e90 aae704cb7c30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 375
+Priority: 6
+DependsOn: 264 100
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.556474
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 264
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 100
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 26
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 376
+SubmitOrder: 67
+Priority: 5
+DependsOn: 368 377 30 277
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.558724
+StartTime: 543.670593
+EndTime: 556.667117
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cea970 aae704c92e90 aae704cbff30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 377
+Priority: 5
+DependsOn: 266 102
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.559891
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 266
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 102
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 30
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 378
+SubmitOrder: 68
+Priority: 4
+DependsOn: 368 379 33 278
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.562057
+StartTime: 556.689408
+EndTime: 567.884481
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cebf70 aae704c92e90 aae704cc61a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 379
+Priority: 4
+DependsOn: 268 104
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.563182
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 268
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 104
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 33
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 380
+SubmitOrder: 69
+Priority: 3
+DependsOn: 368 381 35 279
+DepLabels: task task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.565224
+StartTime: 564.001586
+EndTime: 571.252640
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ced570 aae704c92e90 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 381
+Priority: 3
+DependsOn: 270 106
+DepLabels: ghost ghost
+Tag: 0
+SubmitTime: 62.566182
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+JobId: 270
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 106
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+JobId: 35
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 382
+SubmitOrder: 70
+Priority: 2
+DependsOn: 368 272 280
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.568182
+StartTime: 579.297172
+EndTime: 609.949969
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 0
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704ceeb70 aae704c92e90 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+JobId: 272
+Priority: 0
+Tag: 0
+Footprint: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 385
+Priority: 0
+DependsOn: 384
+DepLabels: ghost
+Tag: 0
+SubmitTime: 533.660156
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 384
+Priority: 0
+DependsOn: 368
+DepLabels: task
+Tag: 0
+SubmitTime: 62.570016
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 388
+Priority: 0
+DependsOn: 387
+DepLabels: ghost
+Tag: 0
+SubmitTime: 444.610812
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 387
+Priority: 0
+DependsOn: 273
+DepLabels: task
+Tag: 0
+SubmitTime: 62.578140
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 391
+Priority: 0
+DependsOn: 390
+DepLabels: ghost
+Tag: 0
+SubmitTime: 449.595469
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 390
+Priority: 0
+DependsOn: 274
+DepLabels: task
+Tag: 0
+SubmitTime: 62.579807
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 394
+Priority: 0
+DependsOn: 393
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.020181
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 393
+Priority: 0
+DependsOn: 275
+DepLabels: task
+Tag: 0
+SubmitTime: 62.581974
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 397
+Priority: 0
+DependsOn: 396
+DepLabels: ghost
+Tag: 0
+SubmitTime: 449.165647
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 396
+Priority: 0
+DependsOn: 276
+DepLabels: task
+Tag: 0
+SubmitTime: 62.588265
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 400
+Priority: 0
+DependsOn: 399
+DepLabels: ghost
+Tag: 0
+SubmitTime: 471.081222
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 399
+Priority: 0
+DependsOn: 277
+DepLabels: task
+Tag: 0
+SubmitTime: 62.593557
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 403
+Priority: 0
+DependsOn: 402
+DepLabels: ghost
+Tag: 0
+SubmitTime: 504.605899
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 402
+Priority: 0
+DependsOn: 278
+DepLabels: task
+Tag: 0
+SubmitTime: 62.599556
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 406
+Priority: 0
+DependsOn: 405
+DepLabels: ghost
+Tag: 0
+SubmitTime: 528.587918
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 405
+Priority: 0
+DependsOn: 279
+DepLabels: task
+Tag: 0
+SubmitTime: 62.601223
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 409
+Priority: 0
+DependsOn: 408
+DepLabels: ghost
+Tag: 0
+SubmitTime: 569.442897
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 408
+Priority: 0
+DependsOn: 280
+DepLabels: task
+Tag: 0
+SubmitTime: 62.604931
+Footprint: 0
+Iteration: 0
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 410
+SubmitOrder: 80
+Priority: 14
+DependsOn: 283
+DepLabels: task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.612306
+StartTime: 457.293386
+EndTime: 642.965451
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 1
+Parameters: M512x512x6
+Handles: aae704c94f60
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 411
+SubmitOrder: 81
+Priority: 12
+DependsOn: 410 284
+DepLabels: task task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.614431
+StartTime: 642.990159
+EndTime: 645.919163
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf0170
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 412
+SubmitOrder: 82
+Priority: 11
+DependsOn: 410 285
+DepLabels: task task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.619723
+StartTime: 643.012117
+EndTime: 644.881650
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf1770
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 413
+SubmitOrder: 83
+Priority: 10
+DependsOn: 410 286
+DepLabels: task task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.621097
+StartTime: 643.048282
+EndTime: 647.394748
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf2d70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 414
+SubmitOrder: 84
+Priority: 9
+DependsOn: 410 287
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.623264
+StartTime: 647.441580
+EndTime: 652.260992
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf4370
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 415
+SubmitOrder: 85
+Priority: 8
+DependsOn: 410 288
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.624431
+StartTime: 662.449050
+EndTime: 667.075383
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf5970
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 416
+SubmitOrder: 86
+Priority: 7
+DependsOn: 410 289
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.630847
+StartTime: 669.948555
+EndTime: 670.659620
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704cf6f70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 417
+SubmitOrder: 87
+Priority: 12
+DependsOn: 410 295
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.632472
+StartTime: 643.113197
+EndTime: 644.882650
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704c97030
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 418
+SubmitOrder: 88
+Priority: 10
+DependsOn: 417 182 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.637055
+StartTime: 645.942163
+EndTime: 647.384915
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704c97030 aae704ca3510
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 419
+SubmitOrder: 89
+Priority: 9
+DependsOn: 417 412 184
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.638639
+StartTime: 654.273062
+EndTime: 662.431342
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704c97030 aae704cf8570
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 420
+SubmitOrder: 90
+Priority: 8
+DependsOn: 417 413 186
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.644639
+StartTime: 647.447080
+EndTime: 654.253063
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704c97030 aae704cf9b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 421
+SubmitOrder: 91
+Priority: 7
+DependsOn: 417 414 188
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.646013
+StartTime: 669.973930
+EndTime: 677.512393
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704c97030 aae704cfb170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 422
+SubmitOrder: 92
+Priority: 6
+DependsOn: 417 415 190
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.650722
+StartTime: 678.393452
+EndTime: 685.748462
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704c97030 aae704cfc770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 423
+SubmitOrder: 93
+Priority: 5
+DependsOn: 417 416 192
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.652097
+StartTime: 685.771961
+EndTime: 691.486807
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704c97030 aae704cfdd70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 426
+Priority: 0
+DependsOn: 425
+DepLabels: ghost
+Tag: 0
+SubmitTime: 644.890941
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 425
+Priority: 0
+DependsOn: 417
+DepLabels: task
+Tag: 0
+SubmitTime: 62.654388
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 427
+SubmitOrder: 95
+Priority: 11
+DependsOn: 410 308
+DepLabels: task task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.655388
+StartTime: 644.899899
+EndTime: 647.385499
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704c99100
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 428
+SubmitOrder: 96
+Priority: 9
+DependsOn: 427 311 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.661096
+StartTime: 647.404998
+EndTime: 652.262242
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704c99100 aae704ca55e0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 429
+SubmitOrder: 97
+Priority: 8
+DependsOn: 427 200 412
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.662430
+StartTime: 652.273117
+EndTime: 655.778188
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704c99100 aae704caf9f0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 430
+SubmitOrder: 98
+Priority: 7
+DependsOn: 427 413 202
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.668221
+StartTime: 654.273021
+EndTime: 660.635224
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704c99100 aae704cff370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 431
+SubmitOrder: 99
+Priority: 6
+DependsOn: 427 414 204
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.669846
+StartTime: 675.440365
+EndTime: 679.272178
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704c99100 aae704d00970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 432
+SubmitOrder: 100
+Priority: 5
+DependsOn: 427 415 206
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.675346
+StartTime: 691.496681
+EndTime: 700.721140
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704c99100 aae704d01f70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 433
+SubmitOrder: 101
+Priority: 4
+DependsOn: 427 416 208
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.676763
+StartTime: 704.799114
+EndTime: 710.172760
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704c99100 aae704d03570
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 436
+Priority: 0
+DependsOn: 435
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.393207
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 435
+Priority: 0
+DependsOn: 427
+DepLabels: task
+Tag: 0
+SubmitTime: 62.682679
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 437
+SubmitOrder: 103
+Priority: 10
+DependsOn: 410 322
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.688346
+StartTime: 644.902524
+EndTime: 647.394623
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704c9b1d0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 438
+SubmitOrder: 104
+Priority: 8
+DependsOn: 437 325 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.690221
+StartTime: 655.785938
+EndTime: 667.088383
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704c9b1d0 aae704ca76b0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 439
+SubmitOrder: 105
+Priority: 7
+DependsOn: 437 327 412
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.698679
+StartTime: 675.428366
+EndTime: 678.386994
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704c9b1d0 aae704cb1a80
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 440
+SubmitOrder: 106
+Priority: 6
+DependsOn: 437 218 413
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.700054
+StartTime: 660.653057
+EndTime: 669.952722
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704c9b1d0 aae704cb9d00
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 441
+SubmitOrder: 107
+Priority: 5
+DependsOn: 437 414 220
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.706179
+StartTime: 690.494500
+EndTime: 696.340259
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704c9b1d0 aae704d04b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 442
+SubmitOrder: 108
+Priority: 4
+DependsOn: 437 415 222
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.708053
+StartTime: 705.693673
+EndTime: 715.716652
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704c9b1d0 aae704d06170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 443
+SubmitOrder: 109
+Priority: 3
+DependsOn: 437 416 224
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.713678
+StartTime: 720.711184
+EndTime: 721.642742
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704c9b1d0 aae704d07770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 446
+Priority: 0
+DependsOn: 445
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.415123
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 445
+Priority: 0
+DependsOn: 437
+DepLabels: task
+Tag: 0
+SubmitTime: 62.716803
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 447
+SubmitOrder: 111
+Priority: 9
+DependsOn: 410 337
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.717970
+StartTime: 652.306616
+EndTime: 654.236647
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704c9d2a0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 448
+SubmitOrder: 112
+Priority: 7
+DependsOn: 447 340 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.719262
+StartTime: 667.117465
+EndTime: 675.409991
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704c9d2a0 aae704ca9780
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 449
+SubmitOrder: 113
+Priority: 6
+DependsOn: 447 342 412
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.726345
+StartTime: 679.278470
+EndTime: 690.485917
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704c9d2a0 aae704cb3b10
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 450
+SubmitOrder: 114
+Priority: 5
+DependsOn: 447 344 413
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.727636
+StartTime: 692.503029
+EndTime: 704.783281
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704c9d2a0 aae704cbbd90
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 451
+SubmitOrder: 115
+Priority: 4
+DependsOn: 447 236 414
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.732844
+StartTime: 696.348467
+EndTime: 705.678673
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704c9d2a0 aae704cc2000
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 452
+SubmitOrder: 116
+Priority: 3
+DependsOn: 447 415 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.734094
+StartTime: 715.723318
+EndTime: 716.609794
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704c9d2a0 aae704d08d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 453
+SubmitOrder: 117
+Priority: 2
+DependsOn: 447 416 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.740469
+StartTime: 727.768326
+EndTime: 728.654552
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704c9d2a0 aae704d0a370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 456
+Priority: 0
+DependsOn: 455
+DepLabels: ghost
+Tag: 0
+SubmitTime: 654.254188
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 455
+Priority: 0
+DependsOn: 447
+DepLabels: task
+Tag: 0
+SubmitTime: 62.742553
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 457
+SubmitOrder: 119
+Priority: 8
+DependsOn: 410 353
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.743594
+StartTime: 667.105799
+EndTime: 669.922848
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704c9f370
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 458
+SubmitOrder: 120
+Priority: 6
+DependsOn: 457 356 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.749511
+StartTime: 677.520601
+EndTime: 680.323442
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704c9f370 aae704cab850
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 459
+SubmitOrder: 121
+Priority: 5
+DependsOn: 457 358 412
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.751136
+StartTime: 689.641023
+EndTime: 692.482613
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704c9f370 aae704cb5ba0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 460
+SubmitOrder: 122
+Priority: 4
+DependsOn: 457 360 413
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.757177
+StartTime: 710.183218
+EndTime: 727.758618
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704c9f370 aae704cbde60
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 461
+SubmitOrder: 123
+Priority: 3
+DependsOn: 457 362 414
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.758760
+StartTime: 716.627044
+EndTime: 723.252865
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704c9f370 aae704cc40d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 462
+SubmitOrder: 124
+Priority: 2
+DependsOn: 457 254 415
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.760885
+StartTime: 723.269364
+EndTime: 729.545320
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704c9f370 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 463
+SubmitOrder: 125
+Priority: 1
+DependsOn: 457 416 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.762219
+StartTime: 729.551486
+EndTime: 742.910875
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704c9f370 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 466
+Priority: 0
+DependsOn: 465
+DepLabels: ghost
+Tag: 0
+SubmitTime: 669.939889
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 465
+Priority: 0
+DependsOn: 457
+DepLabels: task
+Tag: 0
+SubmitTime: 62.768385
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 467
+SubmitOrder: 127
+Priority: 7
+DependsOn: 410 370
+DepLabels: task task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.773677
+StartTime: 670.687036
+EndTime: 675.400491
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 1
+Parameters: M512x512x6 M512x512x6
+Handles: aae704c94f60 aae704ca1440
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 468
+SubmitOrder: 128
+Priority: 5
+DependsOn: 467 373 411
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.775052
+StartTime: 680.331733
+EndTime: 689.608774
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf0170 aae704ca1440 aae704cad920
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 469
+SubmitOrder: 129
+Priority: 4
+DependsOn: 467 375 412
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.780802
+StartTime: 700.744848
+EndTime: 714.851384
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf1770 aae704ca1440 aae704cb7c30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 470
+SubmitOrder: 130
+Priority: 3
+DependsOn: 467 377 413
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.782426
+StartTime: 714.875508
+EndTime: 720.701309
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf2d70 aae704ca1440 aae704cbff30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 471
+SubmitOrder: 131
+Priority: 2
+DependsOn: 467 379 414
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.784510
+StartTime: 721.671283
+EndTime: 734.316483
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf4370 aae704ca1440 aae704cc61a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 472
+SubmitOrder: 132
+Priority: 1
+DependsOn: 467 381 415
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.785843
+StartTime: 728.660802
+EndTime: 736.527006
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf5970 aae704ca1440 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 473
+SubmitOrder: 133
+Priority: 0
+DependsOn: 467 272 416
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.787718
+StartTime: 734.326482
+EndTime: 748.499058
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 1
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf6f70 aae704ca1440 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 476
+Priority: 0
+DependsOn: 475
+DepLabels: ghost
+Tag: 0
+SubmitTime: 675.414199
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 475
+Priority: 0
+DependsOn: 467
+DepLabels: task
+Tag: 0
+SubmitTime: 62.790676
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 479
+Priority: 0
+DependsOn: 478
+DepLabels: ghost
+Tag: 0
+SubmitTime: 643.092448
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 478
+Priority: 0
+DependsOn: 410
+DepLabels: task
+Tag: 0
+SubmitTime: 62.791885
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 482
+Priority: 0
+DependsOn: 481
+DepLabels: ghost
+Tag: 0
+SubmitTime: 645.933580
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 481
+Priority: 0
+DependsOn: 411
+DepLabels: task
+Tag: 0
+SubmitTime: 62.793634
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 485
+Priority: 0
+DependsOn: 484
+DepLabels: ghost
+Tag: 0
+SubmitTime: 644.887816
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 484
+Priority: 0
+DependsOn: 412
+DepLabels: task
+Tag: 0
+SubmitTime: 62.799051
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 488
+Priority: 0
+DependsOn: 487
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.429122
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 487
+Priority: 0
+DependsOn: 413
+DepLabels: task
+Tag: 0
+SubmitTime: 62.804676
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 491
+Priority: 0
+DependsOn: 490
+DepLabels: ghost
+Tag: 0
+SubmitTime: 652.283700
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 490
+Priority: 0
+DependsOn: 414
+DepLabels: task
+Tag: 0
+SubmitTime: 62.809759
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 494
+Priority: 0
+DependsOn: 493
+DepLabels: ghost
+Tag: 0
+SubmitTime: 667.090466
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 493
+Priority: 0
+DependsOn: 415
+DepLabels: task
+Tag: 0
+SubmitTime: 62.815634
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 497
+Priority: 0
+DependsOn: 496
+DepLabels: ghost
+Tag: 0
+SubmitTime: 670.667994
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 496
+Priority: 0
+DependsOn: 416
+DepLabels: task
+Tag: 0
+SubmitTime: 62.823384
+Footprint: 0
+Iteration: 1
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 498
+SubmitOrder: 142
+Priority: 12
+DependsOn: 499 182
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.825175
+StartTime: 647.395790
+EndTime: 729.599235
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 2
+Parameters: M512x512x6
+Handles: aae704ca3510
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 499
+Priority: 12
+DependsOn: 418 297
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.826217
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 500
+SubmitOrder: 143
+Priority: 9
+DependsOn: 498 501 184
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.833717
+StartTime: 729.634984
+EndTime: 734.311733
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cf8570
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 501
+Priority: 9
+DependsOn: 419 298
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.834592
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 502
+SubmitOrder: 144
+Priority: 8
+DependsOn: 498 503 186
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.836592
+StartTime: 736.535173
+EndTime: 742.203936
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cf9b70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 503
+Priority: 8
+DependsOn: 420 299
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.837633
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 504
+SubmitOrder: 145
+Priority: 7
+DependsOn: 498 505 188
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.843175
+StartTime: 742.224269
+EndTime: 742.891876
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cfb170
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 505
+Priority: 7
+DependsOn: 421 300
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.844133
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 506
+SubmitOrder: 146
+Priority: 6
+DependsOn: 498 507 190
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.848883
+StartTime: 748.497808
+EndTime: 757.791556
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cfc770
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 507
+Priority: 6
+DependsOn: 422 301
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.849675
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 508
+SubmitOrder: 147
+Priority: 5
+DependsOn: 498 509 192
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.855591
+StartTime: 757.817097
+EndTime: 759.296682
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cfdd70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 509
+Priority: 5
+DependsOn: 423 302
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.856466
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 510
+SubmitOrder: 148
+Priority: 9
+DependsOn: 498 511 311
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.865508
+StartTime: 734.330857
+EndTime: 736.518756
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704ca55e0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 511
+Priority: 9
+DependsOn: 428 310
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.866466
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 512
+SubmitOrder: 149
+Priority: 6
+DependsOn: 510 200 500
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 62.868716
+StartTime: 742.948958
+EndTime: 759.301682
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf8570 aae704ca55e0 aae704caf9f0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 513
+SubmitOrder: 150
+Priority: 5
+DependsOn: 510 502 202
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.870591
+StartTime: 764.013013
+EndTime: 771.173070
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf9b70 aae704ca55e0 aae704cff370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 514
+SubmitOrder: 151
+Priority: 4
+DependsOn: 510 504 204
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.871882
+StartTime: 766.101082
+EndTime: 766.987058
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfb170 aae704ca55e0 aae704d00970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 515
+SubmitOrder: 152
+Priority: 3
+DependsOn: 510 506 206
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.877382
+StartTime: 767.859534
+EndTime: 777.944595
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfc770 aae704ca55e0 aae704d01f70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 516
+SubmitOrder: 153
+Priority: 2
+DependsOn: 510 508 208
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.878924
+StartTime: 780.883099
+EndTime: 792.305207
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfdd70 aae704ca55e0 aae704d03570
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 519
+Priority: 0
+DependsOn: 518
+DepLabels: ghost
+Tag: 0
+SubmitTime: 736.524048
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 518
+Priority: 0
+DependsOn: 510
+DepLabels: task
+Tag: 0
+SubmitTime: 62.881340
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 520
+SubmitOrder: 155
+Priority: 8
+DependsOn: 498 521 325
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.882340
+StartTime: 736.536839
+EndTime: 742.151562
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704ca76b0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 521
+Priority: 8
+DependsOn: 438 324
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.888965
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 522
+SubmitOrder: 156
+Priority: 5
+DependsOn: 520 327 500
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.890340
+StartTime: 742.188603
+EndTime: 757.795348
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf8570 aae704ca76b0 aae704cb1a80
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 523
+SubmitOrder: 157
+Priority: 4
+DependsOn: 520 218 502
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.895007
+StartTime: 767.014349
+EndTime: 776.187851
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf9b70 aae704ca76b0 aae704cb9d00
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 524
+SubmitOrder: 158
+Priority: 3
+DependsOn: 520 504 220
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.896257
+StartTime: 771.185278
+EndTime: 778.887111
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfb170 aae704ca76b0 aae704d04b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 525
+SubmitOrder: 159
+Priority: 2
+DependsOn: 520 506 222
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.901132
+StartTime: 779.982082
+EndTime: 780.862350
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfc770 aae704ca76b0 aae704d06170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 526
+SubmitOrder: 160
+Priority: 1
+DependsOn: 520 508 224
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.902340
+StartTime: 787.680790
+EndTime: 795.180671
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfdd70 aae704ca76b0 aae704d07770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 529
+Priority: 0
+DependsOn: 528
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.168687
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 528
+Priority: 0
+DependsOn: 520
+DepLabels: task
+Tag: 0
+SubmitTime: 62.907965
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 530
+SubmitOrder: 162
+Priority: 7
+DependsOn: 498 531 340
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.914756
+StartTime: 742.904584
+EndTime: 748.480766
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704ca9780
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 531
+Priority: 7
+DependsOn: 448 339
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.915590
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 532
+SubmitOrder: 163
+Priority: 4
+DependsOn: 530 342 500
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.919881
+StartTime: 765.228064
+EndTime: 767.851243
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf8570 aae704ca9780 aae704cb3b10
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 533
+SubmitOrder: 164
+Priority: 3
+DependsOn: 530 344 502
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.921173
+StartTime: 776.198309
+EndTime: 785.690927
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf9b70 aae704ca9780 aae704cbbd90
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 534
+SubmitOrder: 165
+Priority: 2
+DependsOn: 530 236 504
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.936672
+StartTime: 778.893278
+EndTime: 779.977290
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfb170 aae704ca9780 aae704cc2000
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 535
+SubmitOrder: 166
+Priority: 1
+DependsOn: 530 506 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.938172
+StartTime: 792.318040
+EndTime: 797.833391
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfc770 aae704ca9780 aae704d08d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 536
+SubmitOrder: 167
+Priority: 0
+DependsOn: 530 508 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.942922
+StartTime: 795.187504
+EndTime: 796.889416
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfdd70 aae704ca9780 aae704d0a370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 539
+Priority: 0
+DependsOn: 538
+DepLabels: ghost
+Tag: 0
+SubmitTime: 748.488599
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 538
+Priority: 0
+DependsOn: 530
+DepLabels: task
+Tag: 0
+SubmitTime: 62.948547
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 540
+SubmitOrder: 169
+Priority: 6
+DependsOn: 498 541 356
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.949630
+StartTime: 748.523390
+EndTime: 757.705392
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cab850
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 541
+Priority: 6
+DependsOn: 458 355
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.954088
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 542
+SubmitOrder: 170
+Priority: 3
+DependsOn: 540 358 500
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.955463
+StartTime: 757.773099
+EndTime: 763.997680
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf8570 aae704cab850 aae704cb5ba0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 543
+SubmitOrder: 171
+Priority: 2
+DependsOn: 540 360 502
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.962088
+StartTime: 757.807181
+EndTime: 765.221647
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf9b70 aae704cab850 aae704cbde60
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 544
+SubmitOrder: 172
+Priority: 1
+DependsOn: 540 362 504
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.963338
+StartTime: 764.006097
+EndTime: 766.095582
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfb170 aae704cab850 aae704cc40d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 545
+SubmitOrder: 173
+Priority: 0
+DependsOn: 540 254 506
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.968421
+StartTime: 796.911457
+EndTime: 801.774826
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfc770 aae704cab850 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 546
+SubmitOrder: 174
+Priority: -1
+DependsOn: 540 508 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.969755
+StartTime: 797.840266
+EndTime: 805.763843
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfdd70 aae704cab850 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 549
+Priority: 0
+DependsOn: 548
+DepLabels: ghost
+Tag: 0
+SubmitTime: 757.726433
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 548
+Priority: 0
+DependsOn: 540
+DepLabels: task
+Tag: 0
+SubmitTime: 62.975796
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 550
+SubmitOrder: 176
+Priority: 5
+DependsOn: 498 551 373
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 62.983879
+StartTime: 759.316474
+EndTime: 763.992347
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 2
+Parameters: M512x512x6 M512x512x6
+Handles: aae704ca3510 aae704cad920
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 551
+Priority: 5
+DependsOn: 468 372
+DepLabels: task task
+Tag: 0
+SubmitTime: 62.984754
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 552
+SubmitOrder: 177
+Priority: 2
+DependsOn: 550 375 500
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 62.989504
+StartTime: 777.973136
+EndTime: 787.651958
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf8570 aae704cad920 aae704cb7c30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 553
+SubmitOrder: 178
+Priority: 1
+DependsOn: 550 377 502
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.990921
+StartTime: 785.707219
+EndTime: 794.022119
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cf9b70 aae704cad920 aae704cbff30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 554
+SubmitOrder: 179
+Priority: 0
+DependsOn: 550 379 504
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.992921
+StartTime: 794.044118
+EndTime: 799.011609
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfb170 aae704cad920 aae704cc61a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 555
+SubmitOrder: 180
+Priority: -1
+DependsOn: 550 381 506
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 62.994212
+StartTime: 799.017692
+EndTime: 799.954000
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfc770 aae704cad920 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 556
+SubmitOrder: 181
+Priority: -2
+DependsOn: 550 272 508
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.000504
+StartTime: 799.962000
+EndTime: 821.952572
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 2
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cfdd70 aae704cad920 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 559
+Priority: 0
+DependsOn: 558
+DepLabels: ghost
+Tag: 0
+SubmitTime: 764.002555
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 558
+Priority: 0
+DependsOn: 550
+DepLabels: task
+Tag: 0
+SubmitTime: 63.006254
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 562
+Priority: 0
+DependsOn: 561
+DepLabels: ghost
+Tag: 0
+SubmitTime: 729.624526
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 561
+Priority: 0
+DependsOn: 498
+DepLabels: task
+Tag: 0
+SubmitTime: 63.007795
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 565
+Priority: 0
+DependsOn: 564
+DepLabels: ghost
+Tag: 0
+SubmitTime: 734.317399
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 564
+Priority: 0
+DependsOn: 500
+DepLabels: task
+Tag: 0
+SubmitTime: 63.009837
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 568
+Priority: 0
+DependsOn: 567
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.214019
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 567
+Priority: 0
+DependsOn: 502
+DepLabels: task
+Tag: 0
+SubmitTime: 63.014587
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 571
+Priority: 0
+DependsOn: 570
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.896542
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 570
+Priority: 0
+DependsOn: 504
+DepLabels: task
+Tag: 0
+SubmitTime: 63.020253
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 574
+Priority: 0
+DependsOn: 573
+DepLabels: ghost
+Tag: 0
+SubmitTime: 757.805889
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 573
+Priority: 0
+DependsOn: 506
+DepLabels: task
+Tag: 0
+SubmitTime: 63.028003
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 577
+Priority: 0
+DependsOn: 576
+DepLabels: ghost
+Tag: 0
+SubmitTime: 759.306265
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 576
+Priority: 0
+DependsOn: 508
+DepLabels: task
+Tag: 0
+SubmitTime: 63.031961
+Footprint: 0
+Iteration: 2
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 578
+SubmitOrder: 189
+Priority: 10
+DependsOn: 579 200
+DepLabels: task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.033336
+StartTime: 759.311057
+EndTime: 1201.976677
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 3
+Parameters: M512x512x6
+Handles: aae704caf9f0
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 579
+Priority: 10
+DependsOn: 512 429 312
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.034253
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 580
+SubmitOrder: 190
+Priority: 6
+DependsOn: 578 581 202
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.040211
+StartTime: 1201.997426
+EndTime: 1205.196965
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704cff370
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 581
+Priority: 6
+DependsOn: 513 430 313
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.045669
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 582
+SubmitOrder: 191
+Priority: 5
+DependsOn: 578 583 204
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.047419
+StartTime: 1202.019717
+EndTime: 1203.711630
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704d00970
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 583
+Priority: 5
+DependsOn: 514 431 314
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.052461
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 584
+SubmitOrder: 192
+Priority: 4
+DependsOn: 578 585 206
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.054252
+StartTime: 1202.042633
+EndTime: 1204.779184
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704d01f70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 585
+Priority: 4
+DependsOn: 515 432 315
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.059461
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 586
+SubmitOrder: 193
+Priority: 3
+DependsOn: 578 587 208
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.061211
+StartTime: 1206.403974
+EndTime: 1209.139441
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704d03570
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 587
+Priority: 3
+DependsOn: 516 433 316
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.066210
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 588
+SubmitOrder: 194
+Priority: 6
+DependsOn: 578 589 327
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.067794
+StartTime: 1202.096007
+EndTime: 1206.347934
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704cb1a80
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 589
+Priority: 6
+DependsOn: 522 439 326
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.072585
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 590
+SubmitOrder: 195
+Priority: 2
+DependsOn: 588 218 580
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.073960
+StartTime: 1209.192398
+EndTime: 1214.152223
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cff370 aae704cb1a80 aae704cb9d00
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 591
+SubmitOrder: 196
+Priority: 1
+DependsOn: 588 582 220
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.079210
+StartTime: 1216.215125
+EndTime: 1219.806903
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d00970 aae704cb1a80 aae704d04b70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 592
+SubmitOrder: 197
+Priority: 0
+DependsOn: 588 584 222
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.081002
+StartTime: 1217.090977
+EndTime: 1217.949162
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d01f70 aae704cb1a80 aae704d06170
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 593
+SubmitOrder: 198
+Priority: -1
+DependsOn: 588 586 224
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.087377
+StartTime: 1217.955995
+EndTime: 1221.782850
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d03570 aae704cb1a80 aae704d07770
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 596
+Priority: 0
+DependsOn: 595
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.376891
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 595
+Priority: 0
+DependsOn: 588
+DepLabels: task
+Tag: 0
+SubmitTime: 63.095418
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 597
+SubmitOrder: 200
+Priority: 5
+DependsOn: 578 598 342
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.096543
+StartTime: 1203.727254
+EndTime: 1206.345642
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704cb3b10
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 598
+Priority: 5
+DependsOn: 532 449 341
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.103043
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 599
+SubmitOrder: 201
+Priority: 1
+DependsOn: 597 344 580
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.104418
+StartTime: 1206.380849
+EndTime: 1210.024834
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cff370 aae704cb3b10 aae704cbbd90
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 600
+SubmitOrder: 202
+Priority: 0
+DependsOn: 597 236 582
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.112959
+StartTime: 1210.039167
+EndTime: 1215.319108
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d00970 aae704cb3b10 aae704cc2000
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 601
+SubmitOrder: 203
+Priority: -1
+DependsOn: 597 584 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.114334
+StartTime: 1215.345357
+EndTime: 1218.808222
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d01f70 aae704cb3b10 aae704d08d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 602
+SubmitOrder: 204
+Priority: -2
+DependsOn: 597 586 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.118584
+StartTime: 1218.816013
+EndTime: 1225.694411
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d03570 aae704cb3b10 aae704d0a370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 605
+Priority: 0
+DependsOn: 604
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.355017
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 604
+Priority: 0
+DependsOn: 597
+DepLabels: task
+Tag: 0
+SubmitTime: 63.120084
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 606
+SubmitOrder: 206
+Priority: 4
+DependsOn: 578 607 358
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.125834
+StartTime: 1204.794309
+EndTime: 1206.343059
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704cb5ba0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 607
+Priority: 4
+DependsOn: 542 459 357
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.126917
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 608
+SubmitOrder: 207
+Priority: 0
+DependsOn: 606 360 580
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.131750
+StartTime: 1206.364183
+EndTime: 1208.217508
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cff370 aae704cb5ba0 aae704cbde60
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 609
+SubmitOrder: 208
+Priority: -1
+DependsOn: 606 362 582
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.133084
+StartTime: 1208.246757
+EndTime: 1211.750038
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d00970 aae704cb5ba0 aae704cc40d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 610
+SubmitOrder: 209
+Priority: -2
+DependsOn: 606 254 584
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.135042
+StartTime: 1211.767037
+EndTime: 1216.207125
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d01f70 aae704cb5ba0 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 611
+SubmitOrder: 210
+Priority: -3
+DependsOn: 606 586 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.136292
+StartTime: 1219.815361
+EndTime: 1220.888457
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d03570 aae704cb5ba0 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 614
+Priority: 0
+DependsOn: 613
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.351725
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 613
+Priority: 0
+DependsOn: 606
+DepLabels: task
+Tag: 0
+SubmitTime: 63.138459
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 615
+SubmitOrder: 212
+Priority: 3
+DependsOn: 578 616 375
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.143917
+StartTime: 1205.210464
+EndTime: 1206.344059
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 3
+Parameters: M512x512x6 M512x512x6
+Handles: aae704caf9f0 aae704cb7c30
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 616
+Priority: 3
+DependsOn: 552 469 374
+DepLabels: task task task
+Tag: 0
+SubmitTime: 63.144958
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 617
+SubmitOrder: 213
+Priority: -1
+DependsOn: 615 377 580
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.151083
+StartTime: 1206.380474
+EndTime: 1209.139941
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704cff370 aae704cb7c30 aae704cbff30
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 618
+SubmitOrder: 214
+Priority: -2
+DependsOn: 615 379 582
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.152625
+StartTime: 1209.178982
+EndTime: 1213.197332
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d00970 aae704cb7c30 aae704cc61a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 619
+SubmitOrder: 215
+Priority: -3
+DependsOn: 615 381 584
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.157250
+StartTime: 1213.215581
+EndTime: 1217.083810
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d01f70 aae704cb7c30 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 620
+SubmitOrder: 216
+Priority: -4
+DependsOn: 615 272 586
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.158541
+StartTime: 1220.896749
+EndTime: 1259.951236
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 3
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d03570 aae704cb7c30 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 623
+Priority: 0
+DependsOn: 622
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.351683
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 622
+Priority: 0
+DependsOn: 615
+DepLabels: task
+Tag: 0
+SubmitTime: 63.164958
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 626
+Priority: 0
+DependsOn: 625
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1202.079174
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 625
+Priority: 0
+DependsOn: 578
+DepLabels: task
+Tag: 0
+SubmitTime: 63.171249
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 629
+Priority: 0
+DependsOn: 628
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1205.201173
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 628
+Priority: 0
+DependsOn: 580
+DepLabels: task
+Tag: 0
+SubmitTime: 63.177041
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 632
+Priority: 0
+DependsOn: 631
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1203.717213
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 631
+Priority: 0
+DependsOn: 582
+DepLabels: task
+Tag: 0
+SubmitTime: 63.179374
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 635
+Priority: 0
+DependsOn: 634
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1204.783934
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 634
+Priority: 0
+DependsOn: 584
+DepLabels: task
+Tag: 0
+SubmitTime: 63.184916
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 638
+Priority: 0
+DependsOn: 637
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1209.173774
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 637
+Priority: 0
+DependsOn: 586
+DepLabels: task
+Tag: 0
+SubmitTime: 63.187332
+Footprint: 0
+Iteration: 3
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 639
+SubmitOrder: 223
+Priority: 8
+DependsOn: 640 218
+DepLabels: task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.188790
+StartTime: 1214.165639
+EndTime: 1695.949503
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 4
+Parameters: M512x512x6
+Handles: aae704cb9d00
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 640
+Priority: 8
+DependsOn: 590 523 440 328
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.189749
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 641
+SubmitOrder: 224
+Priority: 3
+DependsOn: 639 642 220
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.195499
+StartTime: 1695.984585
+EndTime: 1699.310162
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704d04b70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 642
+Priority: 3
+DependsOn: 591 524 441 329
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.196540
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 643
+SubmitOrder: 225
+Priority: 2
+DependsOn: 639 644 222
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.203790
+StartTime: 1695.994502
+EndTime: 1700.955284
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704d06170
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 644
+Priority: 2
+DependsOn: 592 525 442 330
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.204748
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 645
+SubmitOrder: 226
+Priority: 1
+DependsOn: 639 646 224
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.209498
+StartTime: 1696.007460
+EndTime: 1700.791872
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704d07770
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 646
+Priority: 1
+DependsOn: 593 526 443 331
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.214248
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 647
+SubmitOrder: 227
+Priority: 3
+DependsOn: 639 648 344
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.215623
+StartTime: 1696.028959
+EndTime: 1698.613431
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704cbbd90
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 648
+Priority: 3
+DependsOn: 599 533 450 343
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.220498
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 649
+SubmitOrder: 228
+Priority: -2
+DependsOn: 647 236 641
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.221873
+StartTime: 1699.327453
+EndTime: 1700.990158
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d04b70 aae704cbbd90 aae704cc2000
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 650
+SubmitOrder: 229
+Priority: -3
+DependsOn: 647 643 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.226373
+StartTime: 1700.994283
+EndTime: 1708.262045
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d06170 aae704cbbd90 aae704d08d70
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 651
+SubmitOrder: 230
+Priority: -4
+DependsOn: 647 645 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.227748
+StartTime: 1700.806413
+EndTime: 1705.430497
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d07770 aae704cbbd90 aae704d0a370
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 654
+Priority: 0
+DependsOn: 653
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1698.617681
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 653
+Priority: 0
+DependsOn: 647
+DepLabels: task
+Tag: 0
+SubmitTime: 63.233831
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 655
+SubmitOrder: 232
+Priority: 2
+DependsOn: 639 656 360
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.234831
+StartTime: 1698.627014
+EndTime: 1700.984909
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704cbde60
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 656
+Priority: 2
+DependsOn: 608 543 460 359
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.240664
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 657
+SubmitOrder: 233
+Priority: -3
+DependsOn: 655 362 641
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.241997
+StartTime: 1705.440622
+EndTime: 1706.474135
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d04b70 aae704cbde60 aae704cc40d0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 658
+SubmitOrder: 234
+Priority: -4
+DependsOn: 655 254 643
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.246581
+StartTime: 1706.482343
+EndTime: 1709.143188
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d06170 aae704cbde60 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 659
+SubmitOrder: 235
+Priority: -5
+DependsOn: 655 645 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.251497
+StartTime: 1709.150355
+EndTime: 1718.810094
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d07770 aae704cbde60 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 662
+Priority: 0
+DependsOn: 661
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1701.003991
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 661
+Priority: 0
+DependsOn: 655
+DepLabels: task
+Tag: 0
+SubmitTime: 63.252914
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 663
+SubmitOrder: 237
+Priority: 1
+DependsOn: 639 664 377
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.259122
+StartTime: 1701.023033
+EndTime: 1706.472885
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 4
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cb9d00 aae704cbff30
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 664
+Priority: 1
+DependsOn: 617 553 470 376
+DepLabels: task task task task
+Tag: 0
+SubmitTime: 63.260164
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 665
+SubmitOrder: 238
+Priority: -4
+DependsOn: 663 379 641
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.264705
+StartTime: 1706.511426
+EndTime: 1713.752272
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d04b70 aae704cbff30 aae704cc61a0
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 666
+SubmitOrder: 239
+Priority: -5
+DependsOn: 663 381 643
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.265955
+StartTime: 1708.272253
+EndTime: 1728.487874
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d06170 aae704cbff30 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 667
+SubmitOrder: 240
+Priority: -6
+DependsOn: 663 272 645
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.271997
+StartTime: 1713.760564
+EndTime: 1714.673997
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 4
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d07770 aae704cbff30 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 670
+Priority: 0
+DependsOn: 669
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1706.492760
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 669
+Priority: 0
+DependsOn: 663
+DepLabels: task
+Tag: 0
+SubmitTime: 63.276830
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 673
+Priority: 0
+DependsOn: 672
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1696.017251
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 672
+Priority: 0
+DependsOn: 639
+DepLabels: task
+Tag: 0
+SubmitTime: 63.282330
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 676
+Priority: 0
+DependsOn: 675
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1699.317537
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 675
+Priority: 0
+DependsOn: 641
+DepLabels: task
+Tag: 0
+SubmitTime: 63.284330
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 679
+Priority: 0
+DependsOn: 678
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1700.971784
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 678
+Priority: 0
+DependsOn: 643
+DepLabels: task
+Tag: 0
+SubmitTime: 63.285455
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 682
+Priority: 0
+DependsOn: 681
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1700.797414
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 681
+Priority: 0
+DependsOn: 645
+DepLabels: task
+Tag: 0
+SubmitTime: 63.287079
+Footprint: 0
+Iteration: 4
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 683
+SubmitOrder: 246
+Priority: 6
+DependsOn: 684 236
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.288996
+StartTime: 1701.005158
+EndTime: 2038.981864
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 5
+Parameters: M512x512x6
+Handles: aae704cc2000
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 684
+Priority: 6
+DependsOn: 649 600 534 451 345
+DepLabels: task task task task task
+Tag: 0
+SubmitTime: 63.290038
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 685
+SubmitOrder: 247
+Priority: 0
+DependsOn: 683 686 238
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.296704
+StartTime: 2039.017321
+EndTime: 2049.942610
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 5
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc2000 aae704d08d70
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 686
+Priority: 0
+DependsOn: 650 601 535 452 346
+DepLabels: task task task task task
+Tag: 0
+SubmitTime: 63.298038
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 687
+SubmitOrder: 248
+Priority: -1
+DependsOn: 683 688 240
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.300121
+StartTime: 2039.040862
+EndTime: 2041.236053
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 5
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc2000 aae704d0a370
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 688
+Priority: -1
+DependsOn: 651 602 536 453 347
+DepLabels: task task task task task
+Tag: 0
+SubmitTime: 63.301287
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 689
+SubmitOrder: 249
+Priority: 0
+DependsOn: 683 690 362
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.302912
+StartTime: 2039.049112
+EndTime: 2041.622626
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 5
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc2000 aae704cc40d0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 690
+Priority: 0
+DependsOn: 657 609 544 461 361
+DepLabels: task task task task task
+Tag: 0
+SubmitTime: 63.304037
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 691
+SubmitOrder: 250
+Priority: -6
+DependsOn: 689 254 685
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.305912
+StartTime: 2049.954609
+EndTime: 2050.863918
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 5
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d08d70 aae704cc40d0 aae704cc8270
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 692
+SubmitOrder: 251
+Priority: -7
+DependsOn: 689 687 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.307204
+StartTime: 2041.668833
+EndTime: 2049.959859
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 5
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d0a370 aae704cc40d0 aae704d0b970
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 695
+Priority: 0
+DependsOn: 694
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.662792
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 694
+Priority: 0
+DependsOn: 689
+DepLabels: task
+Tag: 0
+SubmitTime: 63.312829
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 696
+SubmitOrder: 253
+Priority: -1
+DependsOn: 683 697 379
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.315037
+StartTime: 2039.076986
+EndTime: 2041.648625
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 5
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc2000 aae704cc61a0
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 697
+Priority: -1
+DependsOn: 665 618 554 471 378
+DepLabels: task task task task task
+Tag: 0
+SubmitTime: 63.316245
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 698
+SubmitOrder: 254
+Priority: -7
+DependsOn: 696 381 685
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.318412
+StartTime: 2049.963942
+EndTime: 2062.940884
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 5
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d08d70 aae704cc61a0 aae704cca340
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 699
+SubmitOrder: 255
+Priority: -8
+DependsOn: 696 272 687
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.319620
+StartTime: 2041.687249
+EndTime: 2055.974613
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 5
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d0a370 aae704cc61a0 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 702
+Priority: 0
+DependsOn: 701
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.663833
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 701
+Priority: 0
+DependsOn: 696
+DepLabels: task
+Tag: 0
+SubmitTime: 63.322079
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 705
+Priority: 0
+DependsOn: 704
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2039.052487
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 704
+Priority: 0
+DependsOn: 683
+DepLabels: task
+Tag: 0
+SubmitTime: 63.323745
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 708
+Priority: 0
+DependsOn: 707
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2049.951734
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 707
+Priority: 0
+DependsOn: 685
+DepLabels: task
+Tag: 0
+SubmitTime: 63.325537
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 711
+Priority: 0
+DependsOn: 710
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.244053
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 710
+Priority: 0
+DependsOn: 687
+DepLabels: task
+Tag: 0
+SubmitTime: 63.330870
+Footprint: 0
+Iteration: 5
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 712
+SubmitOrder: 260
+Priority: 4
+DependsOn: 713 254
+DepLabels: task ghost
+Tag: 0
+WorkerId: 0
+MemoryNode: 0
+SubmitTime: 63.332495
+StartTime: 2050.898542
+EndTime: 2440.963888
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 6
+Parameters: M512x512x6
+Handles: aae704cc8270
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 713
+Priority: 4
+DependsOn: 691 658 610 545 462 363
+DepLabels: task task task task task task
+Tag: 0
+SubmitTime: 63.334245
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 714
+SubmitOrder: 261
+Priority: -3
+DependsOn: 712 715 256
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.335578
+StartTime: 2441.000095
+EndTime: 2444.179884
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 6
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc8270 aae704d0b970
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 715
+Priority: -3
+DependsOn: 692 659 611 546 463 364
+DepLabels: task task task task task task
+Tag: 0
+SubmitTime: 63.337203
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: strsm
+Model: strsm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_strsm.c
+Line: 226
+JobId: 716
+SubmitOrder: 262
+Priority: -3
+DependsOn: 712 717 381
+DepLabels: task task ghost
+Tag: 0
+WorkerId: 3
+MemoryNode: 0
+SubmitTime: 63.338536
+StartTime: 2441.028011
+EndTime: 2443.016207
+Footprint: e6adb9cb
+GFlop: 0.134217
+Iteration: 6
+Parameters: M512x512x6 M512x512x6
+Handles: aae704cc8270 aae704cca340
+Modes: R RW
+Sizes: 1048576 1048576
+NumaNodes: -1 -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 717
+Priority: -3
+DependsOn: 698 666 619 555 472 380
+DepLabels: task task task task task task
+Tag: 0
+SubmitTime: 63.340120
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: sgemm
+Model: sgemm
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgemm.c
+Line: 372
+JobId: 718
+SubmitOrder: 263
+Priority: -10
+DependsOn: 716 272 714
+DepLabels: task ghost task
+Tag: 0
+WorkerId: 1
+MemoryNode: 0
+SubmitTime: 63.341661
+StartTime: 2444.192842
+EndTime: 2449.998519
+Footprint: 45a71dee
+GFlop: 0.268435
+Iteration: 6
+Parameters: M512x512x6 M512x512x6 M512x512x6
+Handles: aae704d0b970 aae704cca340 aae704ccc410
+Modes: R R RWC
+Sizes: 1048576 1048576 1048576
+NumaNodes: -1 -1 -1
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 721
+Priority: 0
+DependsOn: 720
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2443.024624
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 720
+Priority: 0
+DependsOn: 716
+DepLabels: task
+Tag: 0
+SubmitTime: 63.343661
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 724
+Priority: 0
+DependsOn: 723
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2441.022261
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 723
+Priority: 0
+DependsOn: 712
+DepLabels: task
+Tag: 0
+SubmitTime: 63.349078
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 727
+Priority: 0
+DependsOn: 726
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2444.188509
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 726
+Priority: 0
+DependsOn: 714
+DepLabels: task
+Tag: 0
+SubmitTime: 63.351244
+Footprint: 0
+Iteration: 6
+MPIRank: -1
+
+Name: sgetrf_nopiv
+Model: sgetrf_nopiv
+File: /src/chameleon/build/runtime/starpu/codelets/codelet_sgetrf_nopiv.c
+Line: 167
+JobId: 728
+SubmitOrder: 267
+Priority: 2
+DependsOn: 729 272
+DepLabels: task ghost
+Tag: 0
+WorkerId: 2
+MemoryNode: 0
+SubmitTime: 63.352661
+StartTime: 2450.036726
+EndTime: 2887.972367
+Footprint: 914f3bef
+GFlop: 0.089347
+Iteration: 7
+Parameters: M512x512x6
+Handles: aae704ccc410
+Modes: RW
+Sizes: 1048576
+NumaNodes: -1
+MPIRank: -1
+
+Name: _starpu_sync_task
+JobId: 729
+Priority: 2
+DependsOn: 718 699 667 620 556 473 382
+DepLabels: task task task task task task task
+Tag: 0
+SubmitTime: 63.357119
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 732
+Priority: 0
+DependsOn: 731
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2887.986450
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 731
+Priority: 0
+DependsOn: 728
+DepLabels: task
+Tag: 0
+SubmitTime: 63.359328
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 735
+Priority: 0
+DependsOn: 734
+DepLabels: ghost
+Tag: 0
+SubmitTime: 444.638270
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 734
+Priority: 0
+DependsOn: 273
+DepLabels: task
+Tag: 0
+SubmitTime: 63.361494
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 738
+Priority: 0
+DependsOn: 737
+DepLabels: ghost
+Tag: 0
+SubmitTime: 449.603386
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 737
+Priority: 0
+DependsOn: 274
+DepLabels: task
+Tag: 0
+SubmitTime: 63.362869
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 741
+Priority: 0
+DependsOn: 740
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.023431
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 740
+Priority: 0
+DependsOn: 275
+DepLabels: task
+Tag: 0
+SubmitTime: 63.364744
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 744
+Priority: 0
+DependsOn: 743
+DepLabels: ghost
+Tag: 0
+SubmitTime: 449.170772
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 743
+Priority: 0
+DependsOn: 276
+DepLabels: task
+Tag: 0
+SubmitTime: 63.370202
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 747
+Priority: 0
+DependsOn: 746
+DepLabels: ghost
+Tag: 0
+SubmitTime: 471.085638
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 746
+Priority: 0
+DependsOn: 277
+DepLabels: task
+Tag: 0
+SubmitTime: 63.376952
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 750
+Priority: 0
+DependsOn: 749
+DepLabels: ghost
+Tag: 0
+SubmitTime: 504.611191
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 749
+Priority: 0
+DependsOn: 278
+DepLabels: task
+Tag: 0
+SubmitTime: 63.379327
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 753
+Priority: 0
+DependsOn: 752
+DepLabels: ghost
+Tag: 0
+SubmitTime: 528.604001
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 752
+Priority: 0
+DependsOn: 279
+DepLabels: task
+Tag: 0
+SubmitTime: 63.384702
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 756
+Priority: 0
+DependsOn: 755
+DepLabels: ghost
+Tag: 0
+SubmitTime: 569.446647
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 755
+Priority: 0
+DependsOn: 280
+DepLabels: task
+Tag: 0
+SubmitTime: 63.391202
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 759
+Priority: 0
+DependsOn: 758
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.046888
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 758
+Priority: 0
+DependsOn: 281
+DepLabels: task
+Tag: 0
+SubmitTime: 63.400160
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 762
+Priority: 0
+DependsOn: 761
+DepLabels: ghost
+Tag: 0
+SubmitTime: 643.100823
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 761
+Priority: 0
+DependsOn: 410
+DepLabels: task
+Tag: 0
+SubmitTime: 63.402160
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 765
+Priority: 0
+DependsOn: 764
+DepLabels: ghost
+Tag: 0
+SubmitTime: 645.937121
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 764
+Priority: 0
+DependsOn: 411
+DepLabels: task
+Tag: 0
+SubmitTime: 63.409868
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 768
+Priority: 0
+DependsOn: 767
+DepLabels: ghost
+Tag: 0
+SubmitTime: 644.892024
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 767
+Priority: 0
+DependsOn: 412
+DepLabels: task
+Tag: 0
+SubmitTime: 63.416409
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 771
+Priority: 0
+DependsOn: 770
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.435706
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 770
+Priority: 0
+DependsOn: 413
+DepLabels: task
+Tag: 0
+SubmitTime: 63.419201
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 774
+Priority: 0
+DependsOn: 773
+DepLabels: ghost
+Tag: 0
+SubmitTime: 652.291366
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 773
+Priority: 0
+DependsOn: 414
+DepLabels: task
+Tag: 0
+SubmitTime: 63.421284
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 777
+Priority: 0
+DependsOn: 776
+DepLabels: ghost
+Tag: 0
+SubmitTime: 667.095716
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 776
+Priority: 0
+DependsOn: 415
+DepLabels: task
+Tag: 0
+SubmitTime: 63.423326
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 780
+Priority: 0
+DependsOn: 779
+DepLabels: ghost
+Tag: 0
+SubmitTime: 670.670619
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 779
+Priority: 0
+DependsOn: 416
+DepLabels: task
+Tag: 0
+SubmitTime: 63.424451
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 783
+Priority: 0
+DependsOn: 782
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.046388
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 782
+Priority: 0
+DependsOn: 293
+DepLabels: task
+Tag: 0
+SubmitTime: 63.426367
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 786
+Priority: 0
+DependsOn: 785
+DepLabels: ghost
+Tag: 0
+SubmitTime: 644.895024
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 785
+Priority: 0
+DependsOn: 417
+DepLabels: task
+Tag: 0
+SubmitTime: 63.429659
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 789
+Priority: 0
+DependsOn: 788
+DepLabels: ghost
+Tag: 0
+SubmitTime: 729.628651
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 788
+Priority: 0
+DependsOn: 498
+DepLabels: task
+Tag: 0
+SubmitTime: 63.435617
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 792
+Priority: 0
+DependsOn: 791
+DepLabels: ghost
+Tag: 0
+SubmitTime: 734.322774
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 791
+Priority: 0
+DependsOn: 500
+DepLabels: task
+Tag: 0
+SubmitTime: 63.437492
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 795
+Priority: 0
+DependsOn: 794
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.217811
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 794
+Priority: 0
+DependsOn: 502
+DepLabels: task
+Tag: 0
+SubmitTime: 63.442700
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 798
+Priority: 0
+DependsOn: 797
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.899042
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 797
+Priority: 0
+DependsOn: 504
+DepLabels: task
+Tag: 0
+SubmitTime: 63.448658
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 801
+Priority: 0
+DependsOn: 800
+DepLabels: ghost
+Tag: 0
+SubmitTime: 757.810264
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 800
+Priority: 0
+DependsOn: 506
+DepLabels: task
+Tag: 0
+SubmitTime: 63.449950
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 804
+Priority: 0
+DependsOn: 803
+DepLabels: ghost
+Tag: 0
+SubmitTime: 759.310390
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 803
+Priority: 0
+DependsOn: 508
+DepLabels: task
+Tag: 0
+SubmitTime: 63.454825
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 807
+Priority: 0
+DependsOn: 806
+DepLabels: ghost
+Tag: 0
+SubmitTime: 451.007681
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 806
+Priority: 0
+DependsOn: 306
+DepLabels: task
+Tag: 0
+SubmitTime: 63.460575
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 810
+Priority: 0
+DependsOn: 809
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.398082
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 809
+Priority: 0
+DependsOn: 427
+DepLabels: task
+Tag: 0
+SubmitTime: 63.466575
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 813
+Priority: 0
+DependsOn: 812
+DepLabels: ghost
+Tag: 0
+SubmitTime: 736.527464
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 812
+Priority: 0
+DependsOn: 510
+DepLabels: task
+Tag: 0
+SubmitTime: 63.472699
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 816
+Priority: 0
+DependsOn: 815
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1202.088007
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 815
+Priority: 0
+DependsOn: 578
+DepLabels: task
+Tag: 0
+SubmitTime: 63.478658
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 819
+Priority: 0
+DependsOn: 818
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1205.204548
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 818
+Priority: 0
+DependsOn: 580
+DepLabels: task
+Tag: 0
+SubmitTime: 63.480283
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 822
+Priority: 0
+DependsOn: 821
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1203.720713
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 821
+Priority: 0
+DependsOn: 582
+DepLabels: task
+Tag: 0
+SubmitTime: 63.486574
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 825
+Priority: 0
+DependsOn: 824
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1204.787559
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 824
+Priority: 0
+DependsOn: 584
+DepLabels: task
+Tag: 0
+SubmitTime: 63.492074
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 828
+Priority: 0
+DependsOn: 827
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1209.181024
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 827
+Priority: 0
+DependsOn: 586
+DepLabels: task
+Tag: 0
+SubmitTime: 63.497865
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 831
+Priority: 0
+DependsOn: 830
+DepLabels: ghost
+Tag: 0
+SubmitTime: 463.482761
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 830
+Priority: 0
+DependsOn: 320
+DepLabels: task
+Tag: 0
+SubmitTime: 63.500199
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 834
+Priority: 0
+DependsOn: 833
+DepLabels: ghost
+Tag: 0
+SubmitTime: 647.422914
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 833
+Priority: 0
+DependsOn: 437
+DepLabels: task
+Tag: 0
+SubmitTime: 63.501907
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 837
+Priority: 0
+DependsOn: 836
+DepLabels: ghost
+Tag: 0
+SubmitTime: 742.175812
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 836
+Priority: 0
+DependsOn: 520
+DepLabels: task
+Tag: 0
+SubmitTime: 63.503615
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 840
+Priority: 0
+DependsOn: 839
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.388057
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 839
+Priority: 0
+DependsOn: 588
+DepLabels: task
+Tag: 0
+SubmitTime: 63.504907
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 843
+Priority: 0
+DependsOn: 842
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1696.022209
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 842
+Priority: 0
+DependsOn: 639
+DepLabels: task
+Tag: 0
+SubmitTime: 63.506574
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 846
+Priority: 0
+DependsOn: 845
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1699.321495
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 845
+Priority: 0
+DependsOn: 641
+DepLabels: task
+Tag: 0
+SubmitTime: 63.508240
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 849
+Priority: 0
+DependsOn: 848
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1700.979367
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 848
+Priority: 0
+DependsOn: 643
+DepLabels: task
+Tag: 0
+SubmitTime: 63.510073
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 852
+Priority: 0
+DependsOn: 851
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1700.800414
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 851
+Priority: 0
+DependsOn: 645
+DepLabels: task
+Tag: 0
+SubmitTime: 63.512282
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 855
+Priority: 0
+DependsOn: 854
+DepLabels: ghost
+Tag: 0
+SubmitTime: 474.958575
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 854
+Priority: 0
+DependsOn: 335
+DepLabels: task
+Tag: 0
+SubmitTime: 63.513907
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 858
+Priority: 0
+DependsOn: 857
+DepLabels: ghost
+Tag: 0
+SubmitTime: 654.260438
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 857
+Priority: 0
+DependsOn: 447
+DepLabels: task
+Tag: 0
+SubmitTime: 63.515782
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 861
+Priority: 0
+DependsOn: 860
+DepLabels: ghost
+Tag: 0
+SubmitTime: 748.491474
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 860
+Priority: 0
+DependsOn: 530
+DepLabels: task
+Tag: 0
+SubmitTime: 63.517073
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 864
+Priority: 0
+DependsOn: 863
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.368891
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 863
+Priority: 0
+DependsOn: 597
+DepLabels: task
+Tag: 0
+SubmitTime: 63.518740
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 867
+Priority: 0
+DependsOn: 866
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1698.621097
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 866
+Priority: 0
+DependsOn: 647
+DepLabels: task
+Tag: 0
+SubmitTime: 63.520448
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 870
+Priority: 0
+DependsOn: 869
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2039.063987
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 869
+Priority: 0
+DependsOn: 683
+DepLabels: task
+Tag: 0
+SubmitTime: 63.522323
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 873
+Priority: 0
+DependsOn: 872
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2049.956651
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 872
+Priority: 0
+DependsOn: 685
+DepLabels: task
+Tag: 0
+SubmitTime: 63.524156
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 876
+Priority: 0
+DependsOn: 875
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.248094
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 875
+Priority: 0
+DependsOn: 687
+DepLabels: task
+Tag: 0
+SubmitTime: 63.529990
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 879
+Priority: 0
+DependsOn: 878
+DepLabels: ghost
+Tag: 0
+SubmitTime: 504.744187
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 878
+Priority: 0
+DependsOn: 351
+DepLabels: task
+Tag: 0
+SubmitTime: 63.531573
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 882
+Priority: 0
+DependsOn: 881
+DepLabels: ghost
+Tag: 0
+SubmitTime: 669.942847
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 881
+Priority: 0
+DependsOn: 457
+DepLabels: task
+Tag: 0
+SubmitTime: 63.533573
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 885
+Priority: 0
+DependsOn: 884
+DepLabels: ghost
+Tag: 0
+SubmitTime: 757.733891
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 884
+Priority: 0
+DependsOn: 540
+DepLabels: task
+Tag: 0
+SubmitTime: 63.535239
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 888
+Priority: 0
+DependsOn: 887
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.355975
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 887
+Priority: 0
+DependsOn: 606
+DepLabels: task
+Tag: 0
+SubmitTime: 63.537031
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 891
+Priority: 0
+DependsOn: 890
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1701.012658
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 890
+Priority: 0
+DependsOn: 655
+DepLabels: task
+Tag: 0
+SubmitTime: 63.542656
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 894
+Priority: 0
+DependsOn: 893
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.671416
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 893
+Priority: 0
+DependsOn: 689
+DepLabels: task
+Tag: 0
+SubmitTime: 63.544989
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 897
+Priority: 0
+DependsOn: 896
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2441.036261
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 896
+Priority: 0
+DependsOn: 712
+DepLabels: task
+Tag: 0
+SubmitTime: 63.546614
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 900
+Priority: 0
+DependsOn: 899
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2444.192967
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 899
+Priority: 0
+DependsOn: 714
+DepLabels: task
+Tag: 0
+SubmitTime: 63.547864
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 903
+Priority: 0
+DependsOn: 902
+DepLabels: ghost
+Tag: 0
+SubmitTime: 533.665697
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 902
+Priority: 0
+DependsOn: 368
+DepLabels: task
+Tag: 0
+SubmitTime: 63.550489
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 906
+Priority: 0
+DependsOn: 905
+DepLabels: ghost
+Tag: 0
+SubmitTime: 675.418283
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 905
+Priority: 0
+DependsOn: 467
+DepLabels: task
+Tag: 0
+SubmitTime: 63.552656
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 909
+Priority: 0
+DependsOn: 908
+DepLabels: ghost
+Tag: 0
+SubmitTime: 764.006222
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 908
+Priority: 0
+DependsOn: 550
+DepLabels: task
+Tag: 0
+SubmitTime: 63.554364
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 912
+Priority: 0
+DependsOn: 911
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1206.355517
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 911
+Priority: 0
+DependsOn: 615
+DepLabels: task
+Tag: 0
+SubmitTime: 63.555906
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 915
+Priority: 0
+DependsOn: 914
+DepLabels: ghost
+Tag: 0
+SubmitTime: 1706.500051
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 914
+Priority: 0
+DependsOn: 663
+DepLabels: task
+Tag: 0
+SubmitTime: 63.557739
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 918
+Priority: 0
+DependsOn: 917
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2041.675125
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 917
+Priority: 0
+DependsOn: 696
+DepLabels: task
+Tag: 0
+SubmitTime: 63.558947
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 921
+Priority: 0
+DependsOn: 920
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2443.029540
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 920
+Priority: 0
+DependsOn: 716
+DepLabels: task
+Tag: 0
+SubmitTime: 63.560780
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_release
+JobId: 924
+Priority: 0
+DependsOn: 923
+DepLabels: ghost
+Tag: 0
+SubmitTime: 2887.995866
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+
+Name: _starpu_data_acquire_cb_pre
+JobId: 923
+Priority: 0
+DependsOn: 728
+DepLabels: task
+Tag: 0
+SubmitTime: 63.566155
+Footprint: 0
+Iteration: 7
+MPIRank: -1
+

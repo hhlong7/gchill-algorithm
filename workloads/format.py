@@ -7,6 +7,7 @@ workload file format: one json file per dag, the same for every source (torch.fx
 
 only the dag: what each kernel is and what it waits for. how long a kernel takes comes from the kernel
 table and when it ran comes from the simulator, so neither is stored here
+getrf: lu of one b x b tile, no pivoting
 """
 
 import json
@@ -19,6 +20,7 @@ SHAPES = {
     "gemm": ("m", "n", "k"),
     "bgemm": ("b", "m", "n", "k"),
     "potrf": ("b",),
+    "getrf": ("b",),
     "trsm": ("m", "n"),
     "syrk": ("n", "k"),
     "elementwise": ("n",),

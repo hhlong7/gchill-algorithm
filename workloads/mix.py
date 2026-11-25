@@ -15,6 +15,7 @@ from workloads.format import Workload, load, save, validate
 SUITE = {
     "mix_resnet50_bert_b1": ["resnet50_b1", "bert_base_s128_b1"],
     "mix_2resnet50_2bert_b1": ["resnet50_b1", "resnet50_b1", "bert_base_s128_b1", "bert_base_s128_b1"],
+    "mix_bert_cholesky_lu": ["bert_base_s128_b1", "cholesky_8x512", "lu_8x512"],
 }
 
 

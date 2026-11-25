@@ -5,3 +5,4 @@ simgrid
 scalesim
 torch
 torchvision
+transformers

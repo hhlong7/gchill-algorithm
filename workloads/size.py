@@ -7,6 +7,7 @@ workload compares to the llc. only for sizing the suite: the real dram bytes com
 - syrk: a (n x k) + c (n x n) read and written
 - elementwise: n in + n out (an add reads 2 inputs: an underestimate, fine for sizing)
 - reduce: n in, the small output ignored
+getrf: reads and writes its b x b tile
 run from the repo root: python -m workloads.size
 """
 
@@ -21,6 +22,8 @@ def min_bytes(kernel, dtype_bytes):
     if t == "gemm":
         elems = s["m"] * s["k"] + s["k"] * s["n"] + s["m"] * s["n"]
     elif t == "potrf":
+        elems = 2 * s["b"] * s["b"]
+    elif t == "getrf":
         elems = 2 * s["b"] * s["b"]
     elif t == "trsm":
         elems = s["m"] * s["m"] + 2 * s["m"] * s["n"]
