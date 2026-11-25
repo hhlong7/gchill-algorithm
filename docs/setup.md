@@ -16,3 +16,14 @@ No macOS wheel: pip builds it from source (about N minutes).
 5. Check: `.venv/bin/python spikes/simgrid_ptask.py` prints 5 lines ending in `ok`
 
 Versions that worked: SimGrid 4.1, Boost 1.92.0, pybind11 2.x, cmake 4.3.1, Apple clang 17.
+
+## SCALE-Sim 3.0.0
+- `pip install scalesim` (pure Python), but it needs `numpy<2.4`: newer NumPy makes
+  `int(max(array))` in double_buffered_scratchpad_mem.py an error
+- GEMM topology rows are `name, M, N, K,` (A is M x K, B is K x N); every row must end with a comma
+- a layout file is always opened: pass configs/scalesim/no_layout.csv
+- word size is hard-coded to 1 byte: sram "kB" in the cfg = thousands of elements,
+  dram bytes = (DRAM IFMAP Reads + DRAM Filter Reads + DRAM OFMAP Writes) x dtype_bytes
+- InterfaceBandwidth CALC => 0 stall cycles, Total Cycles = compute only
+- dataflow os: 20351 cycles, 1.34 MB for a 256^3 bf16 gemm (ws and is: 22399 cycles, 2.23 MB)
+- check: `.venv/bin/python spikes/scalesim_gemm.py`
