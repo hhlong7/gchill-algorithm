@@ -40,3 +40,23 @@ Versions that worked: SimGrid 4.1, Boost 1.92.0, pybind11 2.x, cmake 4.3.1, Appl
 
 Finding: the loss curve's shape is set by the address mapping. MOP4CLXOR (xor bank hashing) is the
 realistic one; RoBaRaCoCh with 1 stream reaches only 75% of peak, and aligned streams collapse onto one bank.
+
+
+## gem5 25.1.0.1 (in Docker, cloned into tools/gem5, not committed)
+gem5 builds and runs only on Linux, so it runs in the official gem5 build image on an arm64 VM.
+
+1. Docker VM: `brew install colima docker`, then
+   `colima start --cpu 8 --memory 12 --disk 50 --vm-type vz --mount-type virtiofs`
+   - check: `docker run --rm ubuntu:24.04 uname -m` prints `aarch64` (native, no emulation)
+   - leftover Docker Desktop config gives "docker-credential-desktop not found": remove the line with
+     `sed -i '' '/"credsStore"/d' ~/.docker/config.json`
+2. `git clone --depth 1 --branch v25.1.0.1 https://github.com/gem5/gem5.git tools/gem5` (commit c8222cc)
+3. `docker pull ghcr.io/gem5/ubuntu-24.04_all-dependencies:v25-1`
+4. Build (about 2-3 h; keep the Mac awake with `caffeinate -i`, no internet needed once the image is pulled):
+   `docker run --rm -it -u "$(id -u):$(id -g)" -v "$PWD/tools/gem5":/gem5 -w /gem5 ghcr.io/gem5/ubuntu-24.04_all-dependencies:v25-1 scons build/ARM/gem5.opt -j 2`
+   - `-j 4` ran out of memory in the 12 GB VM ("Killed signal terminated program cc1plus"); rerunning
+     with a lower `-j` continues where it stopped
+5. Check: `docker run --rm -v "$PWD/tools/gem5":/gem5 -w /gem5 ghcr.io/gem5/ubuntu-24.04_all-dependencies:v25-1 build/ARM/gem5.opt -B`
+   prints `gem5 version 25.1.0.1` (gem5 has no `--version` flag)
+
+The default ARM build uses Ruby with the CHI protocol; SE-mode runs can still use the classic caches.
