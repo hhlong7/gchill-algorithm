@@ -17,6 +17,7 @@ from dataclasses import dataclass
 #m x n right hand side. syrk: n x n out from n x k. elementwise and reduce: n elements
 SHAPES = {
     "gemm": ("m", "n", "k"),
+    "bgemm": ("b", "m", "n", "k"),
     "potrf": ("b",),
     "trsm": ("m", "n"),
     "syrk": ("n", "k"),

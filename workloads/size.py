@@ -30,6 +30,8 @@ def min_bytes(kernel, dtype_bytes):
         elems = 2 * s["n"]
     elif t == "reduce":
         elems = s["n"]
+    elif t == "bgemm":
+        elems = s["b"] * (s["m"] * s["k"] + s["k"] * s["n"] + s["m"] * s["n"])
     else:
         raise ValueError(f"no size rule for kernel type {t}")
     return elems * dtype_bytes

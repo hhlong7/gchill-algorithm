@@ -10,6 +10,7 @@ from workloads.size import min_bytes, report, LLC_BYTES
     (Kernel(0, "syrk", {"n": 3, "k": 5}), 15 + 2 * 9),
     (Kernel(0, "elementwise", {"n": 10}), 20),
     (Kernel(0, "reduce", {"n": 10}), 10),
+    (Kernel(0, "bgemm", {"b": 3, "m": 2, "n": 3, "k": 4}), 3 * (2 * 4 + 4 * 3 + 2 * 3)),
 ])
 def test_min_bytes(kernel, elems):
     assert min_bytes(kernel, 4) == elems * 4
