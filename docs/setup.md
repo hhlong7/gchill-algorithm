@@ -72,3 +72,17 @@ The default ARM build uses Ruby with the CHI protocol; SE-mode runs can still us
 - QR (`geqrf`) is not in the suite: its tile kernels (geqrt, tsqrt, tsmqrt, ttqrt, ttmqrt) are Chameleon's
   own, not OpenBLAS calls
 - the volume is not used for output (tasks.rec comes out on stdout), so no root-owned files
+
+
+
+## OpenBLAS 0.3.34 on gem5 (Docker image gchill-gem5)
+- `docker build -t gchill-gem5 docker/gem5`: gem5's build image + a static OpenBLAS for Neoverse V2 (2 min)
+- check: `.venv/bin/python spikes/gem5_gemm.py` (about 8 min): 256^3 sgemm, 637 / 324 / 173 us at 1 / 2 / 4
+  cores with ideal memory, 742 us and 1.73 MiB of dram traffic with a 12 MiB llc + ddr4-2400
+- OpenBLAS needs three changes for gem5 se mode (all in the Dockerfile): mbind made a no-op (no such
+  syscall in se mode), GCCVERSIONGTEQ13=0 (gcc 13 emits stlur, which gem5 25.1 cannot decode), CROSS=1
+  (its tests need sve, which the mac does not have)
+- se mode traps `dc civac`, so the driver flushes the caches by reading a 32 MiB clean buffer twice;
+  dram bytes therefore come from 1-core runs
+- precision: fp32 on both sides (open decision 2). gem5's se mode has no bf16 instructions
+- gem5 simulates about 0.1-0.2 M instructions per second here; the cache flush dominates short runs
