@@ -48,5 +48,5 @@ def report(w):
 if __name__ == "__main__":
     for path in sorted(glob.glob("data/workloads/*.json")):
         r = report(load(path))
-        print(f"{r['name']:20s} {r['kernels']:4d} kernels  {r['total_mb']:8.1f} MB total ({r['x_llc']:5.1f}x llc)"
+        print(f"{r['name']:24s} {r['kernels']:4d} kernels  {r['total_mb']:8.1f} MB total ({r['x_llc']:5.1f}x llc)"
               f"  largest kernel {r['max_kernel_mb']:6.2f} MB  {r['over_llc']} over llc")
