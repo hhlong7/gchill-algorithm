@@ -3,3 +3,5 @@ pandas
 pytest
 simgrid
 scalesim
+torch
+torchvision
