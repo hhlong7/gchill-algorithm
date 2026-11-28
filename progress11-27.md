@@ -65,7 +65,7 @@ gemms scale very good with multicores like k=3072 m=128 n=768 goes from 11.4ms t
 matrix vector gemms m =1 => scale about 2x, since theyre limited by meomry not compute
 
 
-=>comparison with accel
+=>comparison with accels
 Shape	            Compute: accel vs CPU 4 cores	Bytes: accel vs CPU	            Running alone at 19.2 GB/s
 256³	            20.4 vs 172 µs (8.4x faster)	2.56 vs 1.73 MiB (1.5x more)	accel wins, 140 vs 172 µs
 k=3072 m=128 n=768	301 vs 2902 µs (9.6x faster)	72.4 vs 11.9 MiB (6.1x more)	CPU wins, 2.9 vs 3.95 ms
