@@ -92,7 +92,7 @@ def rows():
                      + writeback.get(dram + "bytesWritten::total", 0)) #gem5 leaves out a stat that stayed 0
         assert nbytes >= min_bytes(SimpleNamespace(type=t, shape=s), 4), (t, s, nbytes)
         for c in ((1,) if t in SINGLE else CORES):
-            ns = result[(t, key, c, "ideal")][0]["simSeconds"] * 1e9
+            ns = result[(t, key, c, "ideal")][0]["simTicks"] / 1000
             assert ns >= flops(t, s) / (c * PEAK) * 1e9, (t, s, c, ns)
             out.append({"type": t, "shape": s, "resource": "cpu", "cores": c, "compute_ns": ns,
                         "dram_bytes": nbytes, "source": source})
