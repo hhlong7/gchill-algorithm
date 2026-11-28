@@ -258,6 +258,30 @@ def bw_order(self, kids):
 
 - **Proposed preset:** `best = dict(malleable=True)` plus the DRAM priority, which is on in the final gchill.
 
+### 3.8 Accelerator hardware variants (validity)
+
+A reviewer could ask whether the accelerator is unrealistically weak: its buffers are small (ifmap 256 KB,
+filter 256 KB, ofmap 128 KB at fp32) and DRAM is one DDR4 channel (19.2 GB/s). Answer it by running every
+experiment on two accelerator variants instead of one.
+
+| Variant | Buffers (ifmap / filter / ofmap) | Alone at 19.2 GB/s, measured on the suite's 29 GEMM shapes |
+|---|---|---|
+| **Small** (`configs/scalesim/accel.cfg`) | 256 KB / 256 KB / 128 KB | 4 CPU cores beat the accelerator on 8/29 shapes; all 29 DRAM-bound |
+| **Large** (8x, `accel_bigsram.cfg`) | 2 MB / 2 MB / 1 MB | CPU beats it on 0/29; accelerator 1.8x faster (median, up to 7.8x); still DRAM-bound on 29/29 |
+
+- Same 32 x 32 array and clock, so compute cycles are identical; only `dram_bytes` change (suite traffic
+  about halves). A matrix that doesn't fit in half a buffer is still re-read, because SCALE-Sim
+  double-buffers (512^3 stays at 6.0x the minimum).
+- **Two regimes:** with small buffers, placement is a real CPU vs accelerator trade-off; with large buffers,
+  every GEMM belongs on the accelerator and DRAM contention (gchill's DRAM priority) is what's left.
+  Reporting gchill's gain in both separates what comes from placement and what comes from contention.
+- **Plug-in:** one kernel table file per variant (e.g. `data/kernel_table_bigsram.csv`: the same CPU rows
+  plus its own accelerator rows); `table/accel.py` gains `--cfg` and `--out` arguments. Keys don't change,
+  so the backend and the policies need nothing new: a run loads a different file.
+- Bandwidth needs no new table (it is a SimGrid link setting), so Stage D's grid is
+  {small, large} x {19.2, 38.4, 76.8 GB/s}.
+- Cite a published accelerator design for each buffer size before using it (open decision 7).
+
 ---
 
 ## 4. Baselines and fairness rules
@@ -318,7 +342,7 @@ while the Phase 1 spikes run.
 | 6 | **Ramulator loss curve** | Stream traces, curve fit, plugged into `degradation` and SimGrid's sharing callback | Curve is monotone, in (0, 1]; small cases match a hand calculation | 15-25 |
 | 7 | **DRAM arbiter + gchill v2** | `allocate_priority` in `sim/memory.py` and the simulator hook; arbiter in the backend; `bw_order` with live criticality in gchill; oldest-first default | Unit tests on `allocate_priority`; reproduce the section 5 numbers on the current simulator first, then on SimGrid | 10-20 |
 | 8 | **Baselines** | Moldable HEFT; SAGA HEFT check; ESHCS and optimal on the view | HEFT matches SAGA with contention off | 10-20 |
-| 9 | **Experiments** | Sweeps over suite x bandwidth x loss curve; `compare()` gchill vs each baseline; E4 ablation of gchill's pieces; decision cost table | Paired win/loss and worst case reported per bandwidth and per family | 15-25 |
+| 9 | **Experiments** | Sweeps over suite x bandwidth x loss curve x accelerator variant (section 3.8); `compare()` gchill vs each baseline; E4 ablation of gchill's pieces; decision cost table | Paired win/loss and worst case reported per bandwidth and per family | 15-25 |
 | opt | Ramulator priority-scheduler plugin + full-DAG replays; STG check of the optimal search | | | 35-60 |
 
 **Core total:** about 130-240 h.
@@ -343,6 +367,8 @@ while the Phase 1 spikes run.
    published configuration and cite it.
 5. **HEFT's arbiter row:** oldest-first only, or also its own rank.
 6. **Deadline:** decides whether to stop after Phase 7 or Phase 9.
+7. **Accelerator variants (section 3.8):** which published designs to cite for the small and large buffer
+   sizes, and whether 8x is the right large size.
 
 ---
 
@@ -355,6 +381,7 @@ while the Phase 1 spikes run.
 | gem5 multithreaded SE runs are fragile | Use gem5's ready-made full-system Linux image for the multicore runs only |
 | A real CPU speed shrinks the Cholesky gain | That's the point of measuring it. Report what remains |
 | Small statistical base | Many DAGs per family; paired comparisons; report win rate and worst case, not only the mean |
+| The accelerator looks unrealistically weak (small buffers, one DDR4 channel) | Two accelerator variants x the bandwidth sweep (section 3.8); report gchill's gain per cell, including where it shrinks |
 
 ---
 
