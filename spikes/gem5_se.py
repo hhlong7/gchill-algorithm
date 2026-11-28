@@ -12,7 +12,17 @@ import m5
 from m5.objects import *
 
 sys.path.append("/gem5/configs")
-from common.cores.arm.neoverse_v2 import L1D, L1I, L2, NeoverseV2
+from common.cores.arm.neoverse_v2 import L1D, L1I, L2, NeoverseV2, NeoverseV2_FP
+
+#gem5 25.1's neoverse v2 has no unit for some arm op classes, so the first such instruction never issues and the
+#run hangs: scalar fmadd (openblas potrf's dot), sve ptrue (sgemv), sve reductions, ... (openblas gemm uses
+#none of them). add them to the fp / simd units, latencies close to arm's neoverse v2 software optimization guide
+missing_ops = {"FloatMultAcc": 4, "SimdPredAlu": 1, "SimdReduceAdd": 4, "SimdReduceAlu": 4, "SimdReduceCmp": 4,
+               "SimdFloatReduceAdd": 8, "SimdFloatReduceCmp": 4, "SimdDiv": 12, "SimdDotProd": 3, "SimdAes": 2,
+               "SimdAesMix": 2, "SimdCrc": 2}
+class FP_all_ops(NeoverseV2_FP):
+    opList = [OpDesc(opClass=o.opClass, opLat=o.opLat, pipelined=o.pipelined) for o in NeoverseV2_FP.opList] \
+             + [OpDesc(opClass=c, opLat=lat, pipelined=c != "SimdDiv") for c, lat in missing_ops.items()]
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--cores", type=int, default=1)
@@ -27,6 +37,10 @@ system.mem_mode = "timing"
 system.mem_ranges = [AddrRange("8GiB")]
 
 system.cpu = [NeoverseV2(cpu_id=i) for i in range(args.cores)]
+for cpu in system.cpu:
+    for iq in cpu.instQueues:
+        if isinstance(iq.fuPool.FUList[0], NeoverseV2_FP):
+            iq.fuPool.FUList = [FP_all_ops(count=fu.count) for fu in iq.fuPool.FUList]
 system.membus = SystemXBar()
 system.system_port = system.membus.cpu_side_ports
 
